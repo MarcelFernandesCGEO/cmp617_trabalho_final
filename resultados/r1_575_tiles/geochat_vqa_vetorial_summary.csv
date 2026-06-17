@@ -1,0 +1,6 @@
+classe,mae_lr_pp,mae_sr_pp,delta_pp,sr_better_n,n_tiles
+forest,37.05,36.57,0.48,180,575
+agriculture,30.43,26.1,4.33,238,575
+urban,5.09,3.65,1.44,202,575
+water,11.49,9.61,1.88,250,575
+bare soil,29.41,20.22,9.19,331,575

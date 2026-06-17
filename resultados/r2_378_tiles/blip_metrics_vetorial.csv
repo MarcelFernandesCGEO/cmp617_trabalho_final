@@ -1,0 +1,379 @@
+tile_id,classe,caption_lr,caption_sr,bleu1_lr,bleu1_sr,rouge1_lr,rouge1_sr,tfidf_lr,tfidf_sr
+tile_0000,cultivated vegetation,a black and white image of a man with a beard,aerial view of the lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0001,cultivated vegetation,a white and black cat,an aerial view of a lake and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0002,water body,a white and black cat,a satellite image of a lake in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0003,cultivated vegetation,a black and white photo of a person ' s face,an aerial view of a field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0004,cultivated vegetation,a white house with a green roof,an aerial view of a road and a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0005,field,a green leaf with white flowers,an aerial view of a house in the middle of a field,0.0,0.08333333333333333,0.0,0.15384615384615385,0.0,0.2097553962782169
+tile_0006,cultivated vegetation,a white and black cat sitting on a green chair,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0007,field,a city with lots of buildings and trees,"an aerial view of the city of fort, texas",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0008,urban area,a black and white photo of a city,a map of the city of edmonton,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0009,field,an aerial view of a city with a red car,an aerial view of the site of the former building,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0010,field,a man in a suit and tie is standing in front of a camera,an aerial view of the site of the proposed new school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0011,cultivated vegetation,a close up of a purple flower,an aerial view of the site of the site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0012,cultivated vegetation,a cell with a cell in the middle,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0013,cultivated vegetation,a black and white dog is looking up at the camera,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0014,cultivated vegetation,a black and white cat is looking at the camera,aerial view of the road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0015,field,a green and white mosaic tile,a satellite image of a road in the middle of a green field,0.0,0.07692307692307693,0.0,0.14285714285714288,0.0,0.2097553962782169
+tile_0016,cultivated vegetation,a purple vase sitting on top of a table,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0017,cultivated vegetation,a black cat is sitting on a green surface,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0018,cultivated vegetation,a green diamond,a green patch of land with a small patch of land in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0019,cultivated vegetation,a close up of a green plant with a blur,an aerial view of the wetlands and wetlands,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0020,cultivated vegetation,a cell with a cell membrane,a green and purple algae in the ocean,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0021,cultivated vegetation,a black and white photo of a flower,an aerial view of the land in the middle of the island,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0022,cultivated vegetation,a blur of a bird in a tree,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0023,field,a blur of a car driving down a road,an aerial view of a farm and farm land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0024,cultivated vegetation,an aerial view of a house in the suburbs,an aerial view of the site of the former school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0025,urban area,a satellite image of the city of new orleans,a satellite image of the city of winnipeg,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0026,urban area,a large number of squares in a square,a satellite image of the city of winnipeg,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0027,field,a blur of a city with a tree in the fore,an aerial view of the campus,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0028,urban area,a view from the top of a building,"an aerial view of the city of fort, texas",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0029,cultivated vegetation,a person is standing on a roof with a cell,an aerial view of a city with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0030,cultivated vegetation,a close up of a flower with a blur,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0031,cultivated vegetation,a blur of a tree in the background,a large field with a road and a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0032,cultivated vegetation,a satellite satellite satellite is seen in this image,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0033,field,a blur of a person walking on a sidewalk,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0034,cultivated vegetation,a green plant with a white background,an aerial view of the site of the former castle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0035,cultivated vegetation,a close up of a person ' s face,a satellite image of a river and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0036,forest,a green plant with a white flower in the middle,a green forest with lots of trees,0.0,0.14285714285714285,0.0,0.25,0.0,0.3032160644503863
+tile_0037,cultivated vegetation,a cell is shown in this image,an aerial view of a lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0038,cultivated vegetation,a close up of a flower with a blur effect,aerial view of the wetlands,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0039,cultivated vegetation,a close up of a leaf with a blur,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0040,cultivated vegetation,a cell with a cell attached to it,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0041,field,a close up of a green and purple colored glass,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0042,field,a green and white flower with a black background,an aerial view of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.3032160644503863
+tile_0043,urban area,a large green and white mosaic tile,"a satellite image of the city of fort, texas",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0044,urban area,a city from above,a map of the city of edmonton,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0045,forest,a bird flying over a city with a lot of buildings,an aerial view of the site of the proposed new school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0046,urban area,a city from the air,a map of the city of edmonton,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0047,urban area,a map of the city of london,a satellite image of a city,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0048,urban area,a green leaf with a white stripe,an aerial view of the city of st louis,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0049,cultivated vegetation,a bird is sitting on a branch in the woods,an aerial view of the site of the former fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0050,field,a blur of a person in a suit,an aerial view of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0051,field,a pink and white wall with a white ceiling,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0052,cultivated vegetation,a small dog is standing in the grass,an aerial view of the farm land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0053,cultivated vegetation,a close up of a purple and white diamond,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0054,cultivated vegetation,a cell with a cell membrane in the middle,an aerial view of a lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0055,cultivated vegetation,a close up of a black and white flower,aerial view of the wetlands,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0056,cultivated vegetation,a green leaf with a white background,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0057,cultivated vegetation,a green leaf with a white spot,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0058,cultivated vegetation,a black and white cat is looking at the camera,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0059,cultivated vegetation,a cell with a cell in the middle,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0060,field,a large white cloud in the sky,a satellite image of the amazon river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0061,field,a blur of a cityscape,an aerial view of the village,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0062,urban area,a satellite image of the city of san,a satellite image of the city of new orleans,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0063,urban area,a view of the city from a high angle,a map of the city of ottawa,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0064,urban area,a large group of white and red squares,a map of the city of edmonton,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0065,urban area,a map of the city of london,a map of the city of new york,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0066,urban area,a satellite image of the city of london,"an aerial view of the city of st louis, minnesota",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0067,cultivated vegetation,a view of the city from the air,an aerial view of the site of the proposed development,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0068,field,an aerial view of a house in the middle of a neighborhood,a large white building,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0069,field,a green and yellow area with a small patch of grass,a large field with a small lake in the middle,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.25969799324016246
+tile_0070,field,a satellite image of the site of the proposed building,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0071,cultivated vegetation,a small plane flying over a small town,an aerial view of a farm and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0072,field,a blur of a green field,an aerial view of the wetlands and wetlands,0.16666666666666669,0.0,0.2857142857142857,0.0,0.3799783615910079,0.0
+tile_0073,field,a blur of a person walking on a path,an aerial view of a road and a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0074,field,a white face with a black nose,an aerial view of the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0075,field,a green leaf with a white background,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0076,cultivated vegetation,a black and white bird flying over a forest,an aerial view of the golf course at the golf club,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0077,cultivated vegetation,a close up of a flower with a blur effect,an aerial view of a green field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0078,forest,a blur of a tree,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0079,urban area,a black and white photo of a city,a satellite image of the city of san,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0080,urban area,a black and white photo of a small area,a satellite image of the city of winnipeg,0.11111111111111109,0.0,0.1818181818181818,0.0,0.161713780662529,0.0
+tile_0081,urban area,a black and white photo of a city,a city with lots of buildings and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0082,urban area,a black and white image of a city,a map of the city of edmonton,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0083,forest,a large tree with a lot of green leaves,a satellite image of the city of new london,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0084,forest,a large white house surrounded by trees,an aerial view of the campus,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0085,cultivated vegetation,a satellite image of the site of the proposed site,an aerial view of the site of the proposed development,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0086,field,a green and white cat is standing in the grass,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0087,field,an aerial view of a neighborhood,an aerial view of the site of the former building,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0088,field,an aerial view of a road and a forest,an aerial view of the site of the proposed new hospital,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0089,field,a satellite image of the area where the plane crashed,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0090,field,a blur of a tree,an aerial view of the river and surrounding farmland,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0091,cultivated vegetation,a green and white flower with a black background,a satellite image of a river running through a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0092,field,a green leaf with a white background,an aerial view of the golf course at the golf club,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0093,field,a black and white image of a dog,an aerial view of the site of the site of the first battle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0094,field,a white bird is flying through the air,the aerial view of the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0095,cultivated vegetation,a black cat is standing on a rock,a satellite image of the site of the ancient site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0096,cultivated vegetation,a blur of a tree,an aerial view of the farm and surrounding area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0097,field,a man in a suit and tie is standing in front of a building,an aerial view of the site of the former school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0098,urban area,a large area with lots of trees and bushes,a map of the city of edmonton,0.11111111111111109,0.0,0.1818181818181818,0.0,0.1505569696020495,0.0
+tile_0099,urban area,a bird is perched on a branch in the middle of a forest,a satellite image of the city of st louis,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0100,urban area,a large crowd of people in a large city,a satellite image of the city of new orleans,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0101,bare ground,a satellite image of the house in the middle of the neighborhood,an aerial view of the site of the proposed school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0102,urban area,a large white building with a green roof,a satellite image of the site of the former fort fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0103,field,a black cat is standing in the grass,an aerial view of the site of the former school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0104,field,a bird is perched on a wire,a satellite image of a house in the middle of a green field,0.0,0.07692307692307693,0.0,0.14285714285714288,0.0,0.2097553962782169
+tile_0105,field,an aerial view of the site of the former military base,a small lake in a field,0.0,0.16666666666666669,0.0,0.2857142857142857,0.0,0.3799783615910079
+tile_0106,field,a green plant with white flowers in the middle,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0107,field,a satellite satellite image of the space shuttle,an aerial view of a road and a lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0108,field,a close up of a green leaf,a golf course in the middle of a green field,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0109,field,a green and purple flower with a black background,a satellite image of a lake in the middle of a green field,0.0,0.07692307692307693,0.0,0.14285714285714288,0.0,0.2097553962782169
+tile_0110,forest,a white cat is sitting in the grass,a satellite image of the amazon river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0111,field,a white and black object with a green background,a satellite image of a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0112,field,a green plant with a white flower in the middle,an aerial view of a green field with a lake,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0113,cultivated vegetation,a white cat with a black nose and a white nose,a satellite image of the amazon river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0114,cultivated vegetation,a man in a suit and tie standing in front of a tree,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0115,field,a green and white background with a white and black pattern,"an aerial view of the city of fort, texas",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0116,urban area,a black and white photo of a man with a beard,a map of the city of new york,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0117,urban area,a large white building with a green roof,a satellite image of the city of new orleans,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0118,field,a baseball field with a baseball field in the middle,an aerial view of the castle,0.10000000000000002,0.0,0.18181818181818182,0.0,0.44943641652398214,0.0
+tile_0119,forest,a blur of a tree,a satellite image of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0120,forest,a green and white photo of a house,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0121,cultivated vegetation,a camouflage cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0122,cultivated vegetation,a small bird is sitting on a tree branch,a satellite image of a field with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0123,field,a green emerald gems,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0124,field,a close up of a green leaf,an aerial view of the site of the former fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0125,field,a white and black cat is sitting on a green tree,an aerial view of the site of the fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0126,field,a black and white photo of a man in a suit,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0127,field,a black and white cat is looking up at the camera,a green field with a small lake in the middle,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.25969799324016246
+tile_0128,forest,a blur of a car driving down a road,a view of a river and a forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.33517574332792605
+tile_0129,field,a black cat is sitting on a white surface,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0130,field,a green and white substance,an aerial view of the river and surrounding farmland,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0131,forest,a blur of a tree in the sky,a satellite image of a river running through a green landscape,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0132,field,a close up of a green leaf,an aerial view of the site of the battle of the sommes,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0133,cultivated vegetation,a green leaf with a white background,an aerial view of the village and surrounding area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0134,field,a satellite image of the site of the proposed new school,an aerial view of the site of the former school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0135,field,a green leaf with a white stripe,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0136,field,a green and white background with a small white flower,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0137,cultivated vegetation,a green leaf with a white background,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0138,cultivated vegetation,a blur of green leaves,a satellite image of a lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0139,cultivated vegetation,a green emerald gems,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0140,cultivated vegetation,a green leaf with white spots,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0141,cultivated vegetation,a close up of a green leaf,an aerial view of the area where the proposed site is located,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0142,cultivated vegetation,a green leaf with white spots,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0143,field,a green leaf with a white background,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0144,field,a cat is looking up at the sky,a green field,0.0,0.3333333333333333,0.0,0.5,0.0,0.5797386715376658
+tile_0145,field,a cat is sitting on a chair and looking up,a green area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0146,water body,a black bear,a green piece of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0147,water body,a black pen with a white background,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0148,forest,a black and white cat sitting on top of a green chair,a large field with a road and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0149,cultivated vegetation,a close up of a leaf with a blur,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0150,field,a green tree with a white background,an aerial view of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.3032160644503863
+tile_0151,field,a close up of a green leaf,an aerial view of a green field with a small house,0.0,0.0909090909090909,0.0,0.16666666666666669,0.0,0.24395572500006343
+tile_0152,field,a green leaf with a white background,an aerial view of the site of the former fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0153,cultivated vegetation,a blur of a leaf,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0154,cultivated vegetation,a green leaf with white flowers,an aerial view of a green field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0155,cultivated vegetation,a green leaf with white flowers,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0156,cultivated vegetation,a close up of a green leaf,an aerial view of a green field with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0157,cultivated vegetation,a green leaf with a white stripe,an aerial view of a lake and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0158,field,a close up of a green leaf,aerial view of the golf course at the golf club,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0159,field,a blur of a tree in the forest,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0160,field,a small insect on a leaf,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0161,field,a black and white dog is walking on a leash,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0162,water body,"a large, bright, yellow, and black object in the sky",a blury background with a blury pattern,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0163,water body,a large amount of dust in the sky,a blurry background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0164,water body,a black and white image of a person,a blurry background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0165,water body,a large amount of colored con con con con con con con con con con con con con con con con con con con con con con con,a bird is sitting on a branch,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0166,water body,a woman with a green dress and a white shirt,a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0167,forest,a blur of a tree in the night,an aerial view of a green field with a lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0168,cultivated vegetation,a green emerald gems,an aerial view of the site of the former fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0169,cultivated vegetation,a green leaf with a white background,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0170,cultivated vegetation,a close up of a green leaf,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0171,cultivated vegetation,a blur of a flower in a green field,an aerial view of a field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0172,field,a close up of a green and white flower,a green field with a small patch of grass,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0173,field,a green leaf with white spots,an aerial view of the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0174,cultivated vegetation,a green leaf with a blur effect,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0175,cultivated vegetation,a green leaf with a blur effect,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0176,field,a close up of a green leaf,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0177,field,a green leaf with a white spot,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0178,cultivated vegetation,a green background with white and black spots,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0179,cultivated vegetation,a black and white cat is sitting in the grass,a satellite image of a lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0180,water body,a green leaf with a white flower on it,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0181,water body,a black cat is standing on a white surface,a green piece of moss,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0182,water body,a black cat sitting on a white surface,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0183,water body,a very large cluster of stars,a blurry background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0184,water body,a black and white dog,a green tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0185,forest,a green leaf with a white background,a satellite image of a green forest,0.0,0.14285714285714285,0.0,0.25,0.0,0.33517574332792605
+tile_0186,cultivated vegetation,a green and white diamond,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0187,cultivated vegetation,a white and black cat,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0188,field,a green leaf with a white line on it,a satellite image of a field with a road,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.3032160644503863
+tile_0189,field,a black and white cat is sitting on a tree,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0190,field,a bird is flying through the trees,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0191,cultivated vegetation,a green leaf with a white stripe,an aerial view of a green field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0192,cultivated vegetation,a green leaf with a white spot,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0193,cultivated vegetation,a blur of a person in a green shirt,an aerial view of a farm and field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0194,field,a green leaf with white spots,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0195,field,a green background with a blur effect,a satellite image of the golf course at the augusta course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0196,cultivated vegetation,a green background with a small white dot,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0197,cultivated vegetation,a close up of a green leaf,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0198,water body,a black and white dog,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0199,water body,a black and white photo of a man in a suit,a green tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0200,water body,a man in a green shirt and black pants,a large field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0201,water body,a black cat is sitting on a white surface,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0202,cultivated vegetation,a green toy car with a pink top,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0203,forest,a green leaf with a white background,a satellite image of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0204,forest,a green leaf with a white background,a satellite image of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0205,cultivated vegetation,a bird is sitting on a branch,a satellite image of a green field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0206,field,a green gems with a white center,an aerial view of the site of the site of the first battle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0207,cultivated vegetation,a blur of green leaves,an aerial view of a farm and a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0208,cultivated vegetation,a blur of a tree in the forest,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0209,cultivated vegetation,a small bird perched on a branch of a tree,a satellite image of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0210,field,a green leaf with a white background,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0211,field,a white cat is sitting on a green chair,an aerial view of a large field with a lake,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0212,field,a green leaf with a white background,an aerial view of the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0213,field,a white bird sitting on top of a tree,an aerial view of a large green field,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.2789425453258252
+tile_0214,forest,a green leaf with white spots,a green area with a river and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0215,field,a close up of a green leaf,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0216,cultivated vegetation,a black and white dog with a green background,a green area with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0217,cultivated vegetation,a bunch of pink flowers on a white background,an aerial view of a green area with trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0218,water body,a black and white cat sitting on a tree branch,a small island in the middle of a body of water,0.0,0.18181818181818182,0.0,0.3076923076923077,0.0,0.31799766166594773
+tile_0219,water body,a black dog with a pink collar,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0220,cultivated vegetation,a white cloud with a red and green background,a green field with a white sky in the background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0221,field,a blur of a tree in the forest,a satellite image of a lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0222,field,a bird is sitting on a leaf in the forest,a satellite image of a road through a green field,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2789425453258252
+tile_0223,cultivated vegetation,a green leaf with a blur effect,an aerial view of a green field with a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0224,cultivated vegetation,a man in a suit and tie is walking down the street,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0225,cultivated vegetation,a green leaf with a blur effect,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0226,cultivated vegetation,a green leaf with white flowers,an aerial view of a green field with trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0227,cultivated vegetation,a close up of a green leaf,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0228,forest,a green and white background with a small white flower,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0229,field,a green and white background with a small white flower,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0230,forest,a blur of a leaf,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0231,forest,a blur of a tree,a satellite image of a green forest,0.0,0.14285714285714285,0.0,0.25,0.0,0.33517574332792605
+tile_0232,cultivated vegetation,a black and white photo of a man in a suit,a green forest with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0233,field,a green leaf with white spots,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0234,field,a green and white flower with a white background,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0235,water body,a bunch of flowers,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0236,water body,a black cat is sitting on a white surface,a piece of broccote,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0237,water body,a bunch of green leaves floating in the air,a green area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0238,cultivated vegetation,a tree with green leaves in the fore,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0239,cultivated vegetation,a green plant with white flowers in the background,a satellite image of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0240,field,a green leaf with a white flower on it,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0241,cultivated vegetation,a blur of leaves,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0242,water body,a close up of a green leaf,a green field with trees and water,0.0,0.14285714285714285,0.0,0.22222222222222224,0.0,0.1757860783933462
+tile_0243,field,a green gems stone,an aerial view of the site of the former fort,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0244,cultivated vegetation,a green and white background with a small white dot,an aerial view of the golf course at the golf club,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0245,cultivated vegetation,a green leaf with white spots,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0246,field,a green background with a blur of leaves,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0247,field,a green background with a white background,a satellite image of the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0248,forest,a blur of a tree in the forest,a green field with a small pond in the middle,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863,0.0
+tile_0249,cultivated vegetation,a blur of green leaves,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0250,cultivated vegetation,a blur of a tree in the forest,a satellite image of a green area with a river and a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0251,cultivated vegetation,a green tree in the middle of a field,an aerial view of the park,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0252,cultivated vegetation,a close up of a green leaf,an aerial view of a green field with a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0253,water body,a group of black and white butterflies flying in the sky,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0254,water body,a vase with flowers in it,a satellite image of a green island,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0255,cultivated vegetation,a green plant with a white background,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0256,water body,a white and black cat is looking up at the camera,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0257,cultivated vegetation,a blur of a tree in the sky,an aerial view of a green field with a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0258,cultivated vegetation,a green leaf with white spots,an aerial view of the village of the village of the village of the village of the village of the village,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0259,cultivated vegetation,a blur of a green leaf,an aerial view of a green field with trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0260,field,a green and white flower with a white flower in the middle,a golf course with a green field and trees,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0261,field,a green leaf with a white background,an aerial view of the river and surrounding farmland,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0262,forest,a green leaf with white spots,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0263,field,a green and white background with a small bird,a green field with a river running through it,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0264,field,a bird is sitting on a branch of a tree,an aerial view of a green field with a river,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0265,field,a close up of a green leaf,aerial view of the golf course at the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0266,field,a blur of a tree in the forest,a green field with a small lake in the middle,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.25969799324016246
+tile_0267,cultivated vegetation,a tree with green leaves in the background,a satellite image of a green field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0268,forest,a green background with a white and black pattern,a green and white surface with a small patch of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0269,cultivated vegetation,a blur of a leaf,a satellite image of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0270,cultivated vegetation,a black and white dog sitting on top of a green leaf,an aerial view of a green field and a lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0271,water body,a green and white diamond,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0272,water body,a green plant with a white background,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0273,cultivated vegetation,a close up of a green leaf,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0274,field,a green leaf with pink flowers in the background,a satellite image of a lake and a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0275,cultivated vegetation,a green background with small white dots,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0276,cultivated vegetation,a small bird sitting on top of a green leaf,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0277,cultivated vegetation,a green leaf with white flowers,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0278,cultivated vegetation,a green and white camouflage cam cam cam,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0279,field,a close up of a green leaf,an aerial view of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.3032160644503863
+tile_0280,cultivated vegetation,a green and white flower with a black center,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0281,cultivated vegetation,a green background with lots of small leaves,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0282,field,a green leaf with a white background,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0283,field,a green background with a white flower,an aerial view of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.3032160644503863
+tile_0284,field,a green leaf with white flowers,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0285,cultivated vegetation,a green plant with white flowers,an aerial view of a green field with a small lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0286,forest,a blur of a tree in the forest,a green area with a small lake in the middle,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863,0.0
+tile_0287,cultivated vegetation,a green leaf with a white background,a golf course in the woods,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0288,field,a blur of a tree,an aerial view of a green field with a road,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0289,water body,a white plate with a bunch of black and white flowers,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0290,cultivated vegetation,a white apple sitting on top of a pile of green leaves,a lake surrounded by green grass and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0291,cultivated vegetation,a close up of a green leaf,aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0292,field,a bird sitting on a branch in the woods,an aerial view of a green field with a road,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0293,cultivated vegetation,a green leaf with white flowers,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0294,cultivated vegetation,a blur of green leaves,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0295,field,a bird is sitting on a branch of a tree,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0296,cultivated vegetation,a green leaf with a white background,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0297,cultivated vegetation,a close up of green leaves,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0298,cultivated vegetation,a green background with white flowers,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0299,cultivated vegetation,a green leaf with white spots,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0300,cultivated vegetation,a green leaf with white flowers in the background,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0301,cultivated vegetation,a bunch of green leaves,a green field with a small lake in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0302,cultivated vegetation,a green background with leaves,a golf course in the woods,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0303,cultivated vegetation,a green plant with white flowers in the background,a golf course in the woods,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0304,forest,a blur of a tree in the forest,an aerial view of a green field and a river,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863,0.0
+tile_0305,forest,a white flower with a green stem,a satellite image of a green area with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0306,cultivated vegetation,a blur of a tree,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0307,water body,a white flower with green leaves on it,a green leaf with a black spot,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0308,cultivated vegetation,a green leaf with a white background,aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0309,field,a green leaf with a white background,an aerial view of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.3032160644503863
+tile_0310,cultivated vegetation,a green leaf with white flowers in the background,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0311,cultivated vegetation,a green leaf with a white background,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0312,cultivated vegetation,green glitter,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0313,cultivated vegetation,a close up of a green plant with leaves,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0314,cultivated vegetation,a green leaf with a white background,an aerial view of a green field with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0315,cultivated vegetation,a close up of a green leaf,an aerial view of a green field with a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0316,cultivated vegetation,a green leaf with white spots,a green forest with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0317,forest,a close up of a green leaf,a green field with a road and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0318,field,a green leaf with a white spot,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0319,forest,a green leaf with white spots,a green field with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0320,cultivated vegetation,a green leaf with white flowers in the background,a satellite image of a green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0321,cultivated vegetation,a green leaf with white flowers in the background,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0322,forest,a close up of a leaf with a white background,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0323,forest,a green tree with white flowers,a green field with a white flower,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0324,field,a blur of a person,a satellite image of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.33517574332792605
+tile_0325,forest,a man in a suit and tie is standing in front of a tree,a plane flying over a lush green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0326,cultivated vegetation,a close up of a green leaf,a satellite image of a green field with a house in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0327,cultivated vegetation,a green background with small leaves,a green field with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0328,cultivated vegetation,a white flower in the middle of a green field,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0329,cultivated vegetation,a green plant with white flowers,an aerial view of the area where the site of the proposed site is located,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0330,cultivated vegetation,a close up of a green leaf,an aerial view of a green field with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0331,cultivated vegetation,a bunch of green leaves,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0332,cultivated vegetation,a close up of a green leaf,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0333,cultivated vegetation,a green leaf with white spots,aerial view of golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0334,cultivated vegetation,a close up of a green leaf,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0335,cultivated vegetation,a close up of a green leaf,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0336,forest,a green plant with a white flower,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0337,cultivated vegetation,a green gems stone,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0338,cultivated vegetation,a green cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam,a satellite image of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0339,field,a green emerald gems,an aerial view of the green fields and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0340,forest,a green background with white flowers,a green forest with a small patch of land,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0341,cultivated vegetation,a green leaf with a white flower,a green forest with a road and trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0342,cultivated vegetation,a green leaf with white spots,an aerial view of a green field with trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0343,field,a green tree with a white stripe on it,an aerial view of the site of the former military base,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0344,cultivated vegetation,a leaf with a white line on it,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0345,cultivated vegetation,a close up of a green leaf,aerial view of the river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0346,cultivated vegetation,a green leaf with a white background,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0347,field,a close up of a green leaf,an aerial view of a green field with trees,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2596979932401625
+tile_0348,forest,a green leaf with a blur of the leaves,a green field with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0349,cultivated vegetation,a green leaf with white spots,a green golf course with a hole in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0350,cultivated vegetation,a green and white background with small leaves,aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0351,cultivated vegetation,a close up of a green leaf,an aerial view of a green field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0352,cultivated vegetation,a close up of a green leaf,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0353,cultivated vegetation,a green background with a blur effect,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0354,cultivated vegetation,a green and white background with a small bird,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0355,field,a blur of a person walking on a path,a large field with a small pond in the middle,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.25969799324016246
+tile_0356,cultivated vegetation,a camouflage cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam cam,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0357,cultivated vegetation,a green gems,aerial view of the golf course at the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0358,cultivated vegetation,a green and white image of a man,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0359,field,a green leaf with a white flower in the middle,a golf course in the woods,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0360,field,a green leaf with a blur effect,an aerial view of a green field with a road,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2596979932401625
+tile_0361,field,a green leaf with a white stripe,a satellite image of a green field,0.0,0.14285714285714285,0.0,0.25,0.0,0.33517574332792605
+tile_0362,field,a close up of a green leaf,an aerial view of the river and surrounding farmland,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0363,cultivated vegetation,a small bird perched on a leaf,a satellite image of a green field with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0364,cultivated vegetation,a green leaf with white flowers,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0365,field,a close up of a green leaf,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0366,cultivated vegetation,a green leaf with a white background,a satellite image of a river running through a green landscape,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0367,cultivated vegetation,a close up of a leaf with a blur,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0368,cultivated vegetation,a close up of a green leaf,an aerial view of a green field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0369,forest,a green leaf with white spots,a satellite image of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0370,cultivated vegetation,a blur of green leaves,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0371,forest,a small white flower on a green leaf,a satellite image of a green field with a lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0372,cultivated vegetation,a green leaf with white spots,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0373,cultivated vegetation,a bird is sitting on a branch in the woods,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0374,field,a close up of a green leaf,an aerial view of the site of the battle of waterloo,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0375,cultivated vegetation,a pink flower with green leaves in the background,aerial view of the golf course at the golf club,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0376,cultivated vegetation,a close up of a green leaf,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0377,field,a bunch of white flowers on a black background,a green field with a small patch of land,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252

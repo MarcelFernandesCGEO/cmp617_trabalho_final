@@ -1,0 +1,576 @@
+tile_id,caption_gt,generic_clip_lr,generic_clip_sr,remote_clip_lr,remote_clip_sr
+tile_0000,"The image shows a mix of land cover types, including a bridge, a building, a road, and a building, with the bridge and the building being the most prominent features.",0.6249901652336121,0.6138168275356293,0.3761520981788635,0.4722144827246666
+tile_0001,"The remote sensing image shows a mix of land cover types, including trees, buildings, and a road.",0.7528039813041687,0.791056826710701,0.5544319003820419,0.6099220365285873
+tile_0002,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.5183466523885727,0.6757096946239471,0.36979325115680695,0.5428879708051682
+tile_0003,"The image shows a mix of land cover types, including a bridge, a building, and a road, with the majority of the area being covered in trees.",0.575895644724369,0.6782746315002441,0.34965217113494873,0.48384569585323334
+tile_0004,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6004664674401283,0.6586602330207825,0.45528601855039597,0.5926274508237839
+tile_0005,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.4843113571405411,0.7010249048471451,0.4561736434698105,0.6203896552324295
+tile_0006,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6105231121182442,0.7174789160490036,0.5163756385445595,0.6638940423727036
+tile_0007,"The remote sensing image shows a mix of land cover types, including a baseball field, a bridge, a building, a dam, a road, and a soccer ball field.",0.46797994524240494,0.7919759303331375,0.20063862204551697,0.5955957621335983
+tile_0008,"The image shows a mix of land cover types, including a golf field, a bridge, and a building.",0.5006071180105209,0.6602572649717331,0.26609688997268677,0.4790251702070236
+tile_0009,"The remote sensing image shows a mix of land cover types, including a large field, some trees, and a road.",0.6588445603847504,0.7683882862329483,0.45917272567749023,0.6048312410712242
+tile_0010,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6238962709903717,0.7485543191432953,0.4802963137626648,0.5670810118317604
+tile_0011,"The image shows a mix of land cover types, including buildings, trees, and a roundabout.",0.5817883461713791,0.68586066365242,0.43262358754873276,0.6648135185241699
+tile_0012,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.6750331819057465,0.6743036210536957,0.4714254289865494,0.5912043154239655
+tile_0013,"The image shows a mix of land cover types, including buildings, trees, and a bridge.",0.6471791863441467,0.726245790719986,0.42095452547073364,0.4507477581501007
+tile_0014,"The image shows a remote sensing scene with a bridge at the bottom left, a building at the top left, and a gray ship at the top left. The land cover type visible is a bridge.",0.5730586498975754,0.8202674984931946,0.45657046139240265,0.6269031018018723
+tile_0015,"The image shows a remote sensing scene with a mix of land cover types, including buildings, trees, and a road.",0.5236673355102539,0.6658437848091125,0.4643477126955986,0.5266450345516205
+tile_0016,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6672532856464386,0.8354887366294861,0.6935641169548035,0.559019148349762
+tile_0017,"The image shows a mix of land cover types, including trees, grass, and a golf field.",0.6191737204790115,0.6893990933895111,0.5854667350649834,0.6570806354284286
+tile_0018,"The image shows a mix of land cover types, including trees, grass, and a building.",0.6319281458854675,0.6753658503293991,0.5997283011674881,0.6868767738342285
+tile_0019,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6516678631305695,0.7371553778648376,0.5101402476429939,0.4341883212327957
+tile_0020,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6027977913618088,0.7179790735244751,0.5874121189117432,0.47711074352264404
+tile_0021,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.7119069993495941,0.7675717025995255,0.48556409776210785,0.5558207631111145
+tile_0022,"The image shows a river with trees on both sides, and a bridge in the center.",0.6541106104850769,0.7685825973749161,0.4974520578980446,0.6809943914413452
+tile_0023,"The image shows a mix of land cover types, including a bridge, a building, trees, and a road.",0.7242975383996964,0.7817144691944122,0.5188266187906265,0.5702662467956543
+tile_0024,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6265716999769211,0.7141681015491486,0.5621714144945145,0.6046345457434654
+tile_0025,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6227526813745499,0.74677474796772,0.5701552331447601,0.5323555320501328
+tile_0026,"The image shows a mix of land cover types, including a bridge, a dam, a road, and various types of vegetation.",0.6573174148797989,0.7653293013572693,0.4192861169576645,0.6944089382886887
+tile_0027,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.7034643739461899,0.7119441032409668,0.4051212966442108,0.58671984821558
+tile_0028,"The image shows a mix of land cover types, including trees, a road, and a bridge.",0.7167474925518036,0.7224524021148682,0.4840273782610893,0.6668595969676971
+tile_0029,"The image shows a mix of land cover types, including trees, grass, and a road.",0.7052991539239883,0.7142487913370132,0.6383007019758224,0.7065087556838989
+tile_0030,"The image shows a mix of land cover types, including a golf field, trees, and a road.",0.5450997874140739,0.6874685734510422,0.4616495966911316,0.8004435896873474
+tile_0031,"The image shows a mix of land cover types, including a bridge, buildings, and a road, with some trees and a gray building at the bottom.",0.5867752432823181,0.6313371658325195,0.33589087426662445,0.5108079314231873
+tile_0032,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6581439822912216,0.7026033848524094,0.5400624498724937,0.5738318711519241
+tile_0033,"The image shows a mix of land cover types, including buildings, houses, trees, and a bridge.",0.668976753950119,0.7628115266561508,0.3469354659318924,0.48335984349250793
+tile_0034,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.7268902659416199,0.7698160409927368,0.5101559311151505,0.6191084533929825
+tile_0035,"The image shows a mix of land cover types, including buildings, trees, and a roundabout.",0.7129248976707458,0.7663315534591675,0.5108945816755295,0.7020482420921326
+tile_0036,"The image shows a mix of land cover types, including buildings, trees, and a bridge.",0.6869630515575409,0.6696230918169022,0.41693754494190216,0.5201445892453194
+tile_0037,"The image shows a remote sensing scene with a bridge, trees, and a road, with the bridge being the most prominent feature in the center.",0.7522512972354889,0.8512416481971741,0.39962049573659897,0.48705801367759705
+tile_0038,"The image shows a coastal area with a mix of land cover types, including trees, a road, and a small harbor.",0.6021928414702415,0.7419131696224213,0.523206889629364,0.5991482734680176
+tile_0039,"The image shows a mix of land cover types, including trees, a road, and a roundabout.",0.5784722417593002,0.6101466715335846,0.5693015456199646,0.7046784460544586
+tile_0040,"The image shows a mix of land cover types, including trees, grass, and a building.",0.5763514712452888,0.7446517050266266,0.597749836742878,0.6479651480913162
+tile_0041,"The image shows a mix of land cover types, including trees, water, and a single building.",0.6339093297719955,0.7655595242977142,0.4920881986618042,0.6634566932916641
+tile_0042,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.580468475818634,0.7016023248434067,0.4692848399281502,0.5127907916903496
+tile_0043,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7185766845941544,0.7104865461587906,0.553201325237751,0.398324579000473
+tile_0044,"The image shows a mix of land cover types, including trees, grass, and possibly a building or other structures in the background.",0.6100323796272278,0.7064741104841232,0.5874701589345932,0.6854169815778732
+tile_0045,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a single ship.",0.6742057949304581,0.7828489691019058,0.5701687186956406,0.6308847665786743
+tile_0046,"The image shows a mix of land cover types, including trees, a building, and a road.",0.5631601810455322,0.759878009557724,0.5378049984574318,0.6155534833669662
+tile_0047,"The image shows a mix of land cover types, including trees, a road, and a field.",0.6570195406675339,0.7586365193128586,0.49067430198192596,0.6642553210258484
+tile_0048,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.7339569926261902,0.7911699265241623,0.5013753473758698,0.7997250556945801
+tile_0049,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.5893157795071602,0.786341205239296,0.35095516592264175,0.6197668239474297
+tile_0050,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6912628561258316,0.7413795590400696,0.48347145318984985,0.5811894685029984
+tile_0051,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7053167372941971,0.7145990431308746,0.556705892086029,0.5714179575443268
+tile_0052,"The image shows a mix of land cover types, including trees, a building, and a road.",0.6182773783802986,0.7658332586288452,0.5856427550315857,0.5943009629845619
+tile_0053,"The image shows a mix of land cover types, including a roundabout, trees, and a road.",0.6066811084747314,0.7362330704927444,0.5024419724941254,0.6335553526878357
+tile_0054,"The image shows a mix of land cover types, including a baseball field, buildings, trees, and a road.",0.6895527988672256,0.7205416262149811,0.3780781477689743,0.5422434583306313
+tile_0055,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6082721427083015,0.7143835723400116,0.5432792380452156,0.557166337966919
+tile_0056,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.6759128719568253,0.7469305396080017,0.38521047681570053,0.5733328312635422
+tile_0057,"The image shows a mix of land cover types, including baseball fields, buildings, and trees.",0.7280557602643967,0.7174265384674072,0.3700151666998863,0.46578705310821533
+tile_0058,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.661134272813797,0.744432806968689,0.46742722392082214,0.5470830574631691
+tile_0059,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.7514613121747971,0.7479283213615417,0.5084334313869476,0.5493590980768204
+tile_0060,"The remote sensing image shows a mix of land cover types, including buildings, trees, and a road.",0.8511170744895935,0.840059220790863,0.5406869947910309,0.47903411090373993
+tile_0061,"The image shows a road at the bottom right corner, surrounded by trees.",0.8497057855129242,0.8360697329044342,0.7081817090511322,0.7197955995798111
+tile_0062,"The image shows a bridge and some trees in the center, with a building and trees at the right.",0.6886709481477737,0.6641404330730438,0.5126012861728668,0.6176582351326942
+tile_0063,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7319878041744232,0.7621946930885315,0.5332064628601074,0.4865986108779907
+tile_0064,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.6427258253097534,0.6962636113166809,0.4154469445347786,0.4460638761520386
+tile_0065,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7282555103302002,0.721539780497551,0.5342800915241241,0.4834418371319771
+tile_0066,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5773664638400078,0.6870818138122559,0.5923745781183243,0.5657824501395226
+tile_0067,"The image shows a coastal area with a mix of land cover types, including trees, grass, and a building.",0.6321461498737335,0.7617946714162827,0.5024423822760582,0.558888167142868
+tile_0068,"The image shows a coastal area with a mix of land cover types, including a large body of water in the center.",0.506143756210804,0.5633023753762245,0.4194876551628113,0.478571318089962
+tile_0069,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7076944410800934,0.7488448917865753,0.5762168765068054,0.680987685918808
+tile_0070,"The image shows a mix of land cover types, including trees, a building, and a road.",0.6238105148077011,0.7422811537981033,0.6204361468553543,0.6042834371328354
+tile_0071,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.7675988972187042,0.8461719751358032,0.4524977505207062,0.5834266543388367
+tile_0072,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.7856036722660065,0.7816953212022781,0.4230332374572754,0.5310986936092377
+tile_0073,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.5987117066979408,0.8236105740070343,0.44417817145586014,0.5986399203538895
+tile_0074,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.6911388784646988,0.6964920461177826,0.5306173861026764,0.5235878750681877
+tile_0075,"The remote sensing image shows a mix of land cover types, including trees, crops, and possibly urban areas, with a road and a building visible in the center.",0.8461372554302216,0.8696422725915909,0.5020923167467117,0.698322132229805
+tile_0076,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6843185424804688,0.7413937896490097,0.5094717442989349,0.791255533695221
+tile_0077,"The image shows a mix of land cover types, including baseball fields, buildings, trees, and a road.",0.7339957356452942,0.7095759361982346,0.3717926889657974,0.546073243021965
+tile_0078,"The image shows a mix of land cover types, including trees, buildings, and a groundtrackfield.",0.5947795510292053,0.770973265171051,0.4358571022748947,0.5416958779096603
+tile_0079,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7186010479927063,0.7191925495862961,0.44869884848594666,0.5486218258738518
+tile_0080,"The image shows a mix of land cover types, including trees, buildings, and a golf field.",0.6681832671165466,0.7084546983242035,0.35712800920009613,0.45603103935718536
+tile_0081,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.7148516923189163,0.7357154786586761,0.40474526584148407,0.5489578098058701
+tile_0082,"The image shows a mix of land cover types, including trees, a groundtrackfield, and a soccerballfield.",0.6892640888690948,0.7308580726385117,0.49688681960105896,0.513262003660202
+tile_0083,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a ship.",0.655570924282074,0.6633651256561279,0.47928832471370697,0.5612848699092865
+tile_0084,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.573282353579998,0.6235354393720627,0.49483831971883774,0.5126359313726425
+tile_0085,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.7011666148900986,0.788329616189003,0.610879510641098,0.5897026509046555
+tile_0086,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7261757552623749,0.6865155696868896,0.598868727684021,0.5379340052604675
+tile_0087,"The image shows a bridge and a building, with the bridge being the most prominent feature.",0.6153088808059692,0.6807517260313034,0.2871575206518173,0.4805926978588104
+tile_0088,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.6655750423669815,0.7510850578546524,0.4930195212364197,0.5479676648974419
+tile_0089,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7069641351699829,0.768192782998085,0.5569442734122276,0.46943239867687225
+tile_0090,"The remote sensing image shows a mix of land cover types, including trees, grass, and a small area of land at the bottom right.",0.7535519450902939,0.8521544188261032,0.6227005645632744,0.6843031942844391
+tile_0091,"The remote sensing image shows a mix of land cover types, including trees, water, and a single bridge.",0.7214201241731644,0.8342498540878296,0.4709158092737198,0.47212716192007065
+tile_0092,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6520182639360428,0.7569609582424164,0.5179058760404587,0.6072448194026947
+tile_0093,"The image shows a mix of land cover types, including trees, fields, and a building.",0.7309065759181976,0.7156078517436981,0.5735038220882416,0.6325573474168777
+tile_0094,"The image shows a bridge and some trees in the center, with a building and trees at the bottom left and right.",0.6719042360782623,0.6743661314249039,0.48522330820560455,0.6538732349872589
+tile_0095,"The remote sensing image shows a mix of land cover types, including trees, roads, and a bridge.",0.7147184759378433,0.8224059641361237,0.4499960318207741,0.692693442106247
+tile_0096,"The image shows a mix of land cover types, including trees, a road, and a building.",0.5412574112415314,0.7265617698431015,0.5732066929340363,0.6445732712745667
+tile_0097,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.5785714462399483,0.8142498880624771,0.3408892825245857,0.6674104183912277
+tile_0098,"The image shows a mix of land cover types, including trees, a road, and a building.",0.5961855128407478,0.7040167599916458,0.5934179946780205,0.7138235867023468
+tile_0099,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7210732996463776,0.7253820449113846,0.507449246942997,0.5903803557157516
+tile_0100,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6928279995918274,0.8171051740646362,0.42819321155548096,0.5563429743051529
+tile_0101,"The image shows a mix of land cover types, including buildings, trees, and a soccer ball field.",0.6020728126168251,0.7427118718624115,0.4949687421321869,0.5839932709932327
+tile_0102,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6882296502590179,0.7119077444076538,0.5287207290530205,0.45392435044050217
+tile_0103,"The image shows a mix of land cover types, including trees, a golf field, and a road.",0.691385418176651,0.7598927617073059,0.5807938054203987,0.625401958823204
+tile_0104,"The image shows a mix of land cover types, including buildings, trees, and a golf field.",0.6742862612009048,0.7554978877305984,0.4171289876103401,0.5609697848558426
+tile_0105,"The image shows a mix of land cover types, including buildings, trees, and a groundtrackfield.",0.5159449577331543,0.745290219783783,0.43673746287822723,0.5498736351728439
+tile_0106,"The image shows a remote sensing scene with a bridge and some trees at the top, and a road at the top left. The land cover type visible is a mix of trees and a bridge.",0.7147736847400665,0.8505088090896606,0.44187672436237335,0.4958708584308624
+tile_0107,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6809312850236893,0.6265279650688171,0.6081663072109222,0.6648793816566467
+tile_0108,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.6920434534549713,0.7878844439983368,0.6277692317962646,0.6084148585796356
+tile_0109,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6156376749277115,0.7362566888332367,0.5294306203722954,0.45761190354824066
+tile_0110,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6738430261611938,0.699828565120697,0.5944111943244934,0.4391627013683319
+tile_0111,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.752425491809845,0.7972248643636703,0.5900342389941216,0.7044193893671036
+tile_0112,"The image shows a mix of land cover types, including trees, roads, and a small area of grass at the bottom right.",0.7326975464820862,0.7354617118835449,0.5710355192422867,0.6314191967248917
+tile_0113,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.6750315427780151,0.7046911865472794,0.3925692290067673,0.38070980459451675
+tile_0114,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6513793766498566,0.736999437212944,0.3736858069896698,0.38435693830251694
+tile_0115,"The remote sensing image shows a mix of land cover types, including trees, a roundabout, and a road.",0.6176825612783432,0.8029811084270477,0.5860201269388199,0.6486997753381729
+tile_0116,"The remote sensing image shows a mix of land cover types, including trees, a golf field, and a bridge.",0.5759331583976746,0.7927712798118591,0.45884300023317337,0.42932093143463135
+tile_0117,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a bridge.",0.6840285658836365,0.8479562401771545,0.5670393258333206,0.5607801675796509
+tile_0118,"The image shows a mix of land cover types, including trees, a road, and a building.",0.5549402162432671,0.7272930443286896,0.56751299649477,0.6743521988391876
+tile_0119,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6882908195257187,0.8256383240222931,0.40056012570858,0.6277504563331604
+tile_0120,"The image shows a mix of land cover types, including a large area of greenery, possibly a field or a park, and a smaller area of water, possibly a lake or a pond.",0.5923597514629364,0.7046929001808167,0.49672365188598633,0.6446176767349243
+tile_0121,"The remote sensing image shows a mix of land cover types, including trees, crops, and possibly a building or two.",0.8304119855165482,0.8483283966779709,0.5885380506515503,0.7325714081525803
+tile_0122,"The image shows a mix of land cover types, including trees, a road, and a building.",0.7239987701177597,0.73415607213974,0.695696696639061,0.76019287109375
+tile_0123,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.606151670217514,0.7182411849498749,0.44517628848552704,0.6293356418609619
+tile_0124,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6399911642074585,0.6984180957078934,0.5332367122173309,0.780474841594696
+tile_0125,"The image shows a mix of land cover types, including trees, a road, and a field.",0.6537801027297974,0.6877373903989792,0.6044234707951546,0.6334502995014191
+tile_0126,"The image shows a mix of land cover types, including trees, a golf field, and a road.",0.7008103281259537,0.6453189253807068,0.5301091074943542,0.6711335480213165
+tile_0127,"The image shows a mix of land cover types, including a bridge, a building, and a road, with the majority of the area being covered in trees.",0.671159029006958,0.6891438364982605,0.357285812497139,0.5687873438000679
+tile_0128,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6228386238217354,0.7214124500751495,0.437975749373436,0.7018071413040161
+tile_0129,"The image shows a mix of land cover types, including trees, an expressway-toll-station, and a road.",0.6112245470285416,0.7088615000247955,0.48901133239269257,0.6210166588425636
+tile_0130,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a bridge.",0.6911898404359818,0.8049666881561279,0.5518893897533417,0.6399820744991302
+tile_0131,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6275179982185364,0.6956404447555542,0.6144227087497711,0.6425551325082779
+tile_0132,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5501364916563034,0.6777606904506683,0.6413720548152924,0.6401966512203217
+tile_0133,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7101157307624817,0.7250019907951355,0.5893443152308464,0.579235702753067
+tile_0134,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a single building.",0.722246915102005,0.8112579584121704,0.5237209796905518,0.5251995474100113
+tile_0135,"The image shows a coastal area with a mix of land cover types, including trees, a road, and a body of water.",0.6780597567558289,0.7344305515289307,0.5002259835600853,0.550871230661869
+tile_0136,"The image shows a coastal area with a mix of land cover types, including trees, grass, and possibly a body of water in the background.",0.594719648361206,0.7369408756494522,0.48033833503723145,0.5794383212924004
+tile_0137,"The remote sensing image shows a mix of land cover types, including trees, grass, and a small harbor in the water.",0.6339950114488602,0.7431615889072418,0.6243595853447914,0.6860494613647461
+tile_0138,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6547962129116058,0.7205286622047424,0.5434935539960861,0.6258830428123474
+tile_0139,"The remote sensing image shows a coastal area with a mix of land cover types, including trees, a river, and a dam.",0.5867450311779976,0.7072208076715469,0.505712479352951,0.572688989341259
+tile_0140,"The remote sensing image shows a coastal area with a mix of land cover types, including trees, a road, and a small vehicle.",0.6127916276454926,0.7542283833026886,0.6134914606809616,0.5896256864070892
+tile_0141,The remote sensing image shows a beach scene with a single gray ship anchored at the center.,0.6287214905023575,0.8293569833040237,0.5204952880740166,0.6078839674592018
+tile_0142,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.5843249335885048,0.7371785491704941,0.5664416402578354,0.6068281456828117
+tile_0143,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.5534888803958893,0.7138605415821075,0.41337989270687103,0.5867347866296768
+tile_0144,"The image shows a mix of land cover types, including trees, a dam, and a road.",0.6516353040933609,0.7071317732334137,0.49729473888874054,0.7626664638519287
+tile_0145,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.5775844305753708,0.7320905476808548,0.38645580410957336,0.624191127717495
+tile_0146,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.5632760375738144,0.6686246395111084,0.43889615684747696,0.6067897006869316
+tile_0147,"The image shows a remote sensing scene with a bridge, a building, and a road, with the bridge being the most prominent feature in the image.",0.6387254595756531,0.7037933170795441,0.4044055938720703,0.39603859186172485
+tile_0148,"The image shows a mix of land cover types, including a bridge, a building, and a road, with the majority of the area being covered in trees.",0.552896186709404,0.6260306388139725,0.42949337512254715,0.6185112148523331
+tile_0149,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6968435645103455,0.6958004087209702,0.3267156332731247,0.6334768235683441
+tile_0150,"The image shows a mix of land cover types, including trees, a road, and a building.",0.6348754465579987,0.7668494433164597,0.5970266833901405,0.6337887048721313
+tile_0151,"The image shows a mix of land cover types, including trees, fields, and a building.",0.5678862705826759,0.7799863815307617,0.5437865108251572,0.7412195205688477
+tile_0152,"The remote sensing image shows a mix of land cover types, including bridges, buildings, and a road, with some trees and a single bridge at the center.",0.727829709649086,0.8059200644493103,0.2187272533774376,0.6848224997520447
+tile_0153,"The image shows a mix of land cover types, including trees, fields, and a road.",0.631653368473053,0.7120157778263092,0.5347618833184242,0.7990668714046478
+tile_0154,"The remote sensing image shows a mix of land cover types, including trees, water, and a single ship.",0.7106523960828781,0.8097706735134125,0.5881423875689507,0.5975358188152313
+tile_0155,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7257861644029617,0.7113664597272873,0.6356491148471832,0.5739162862300873
+tile_0156,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.5247072130441666,0.7296055555343628,0.42144209146499634,0.48179641366004944
+tile_0157,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.6198371574282646,0.64675472676754,0.43826334178447723,0.6302300840616226
+tile_0158,"The image shows a coastal area with a mix of land cover types, including trees, grass, and a building.",0.6265854835510254,0.6984477490186691,0.5216123163700104,0.6693083047866821
+tile_0159,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.6063921377062798,0.6019429117441177,0.4598415642976761,0.5484887957572937
+tile_0160,"The image shows a coastal area with a mix of land cover types, including trees and grass.",0.6327364593744278,0.8032447099685669,0.592070072889328,0.5985786020755768
+tile_0161,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6212970614433289,0.7539874315261841,0.47138798981904984,0.5264467000961304
+tile_0162,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5686378106474876,0.7497350871562958,0.6436488032341003,0.6147819757461548
+tile_0163,"The remote sensing image shows a mix of land cover types, including trees, a road, and a building.",0.5497173592448235,0.7924303412437439,0.6405137479305267,0.5912284925580025
+tile_0164,"The remote sensing image shows a mix of land cover types, including trees, buildings, and a road.",0.665210485458374,0.7647156715393066,0.6539018452167511,0.5013680830597878
+tile_0165,"The remote sensing image shows a coastal area with a mix of land cover types, including trees and a beach.",0.6314325332641602,0.6561347842216492,0.6128925830125809,0.5912966281175613
+tile_0166,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a building.",0.6057199090719223,0.8522993326187134,0.5579889193177223,0.4876897856593132
+tile_0167,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a road.",0.7676900923252106,0.8413094282150269,0.5472628772258759,0.651412308216095
+tile_0168,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.7776960730552673,0.8062377572059631,0.3645607829093933,0.5881999433040619
+tile_0169,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.6626901030540466,0.7146747410297394,0.4860538989305496,0.6108873337507248
+tile_0170,"The image shows a mix of land cover types, including trees, fields, and a road.",0.7381106913089752,0.7589544355869293,0.582709014415741,0.7040590047836304
+tile_0171,"The image shows a mix of land cover types, including trees, water, and a bridge.",0.7459308207035065,0.6953668594360352,0.38348961621522903,0.5603383481502533
+tile_0172,"The image shows a remote sensing scene with a mix of land cover types, including a bridge, a building, and a road, with the bridge being the most prominent feature.",0.7351924479007721,0.7654564827680588,0.35775981843471527,0.5316059663891792
+tile_0173,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.634290799498558,0.7039489597082138,0.5746353790163994,0.6036798655986786
+tile_0174,"The image shows a mix of land cover types, including a bridge, a building, and a road, with the majority of the area being covered in trees.",0.6499151885509491,0.6742428243160248,0.38759980350732803,0.6185887008905411
+tile_0175,"The image shows a bridge and a building, with the bridge located at the center and the building at the top. The land cover type visible is a bridge.",0.61799556016922,0.7355770468711853,0.3699633479118347,0.6299637258052826
+tile_0176,"The image shows a mix of land cover types, including trees, water, and a single building.",0.5932087078690529,0.7224294543266296,0.6295285373926163,0.6524175405502319
+tile_0177,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a small vehicle.",0.6880327314138412,0.7969443500041962,0.6392768770456314,0.6130743771791458
+tile_0178,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a building.",0.7363733649253845,0.8310228586196899,0.6321703642606735,0.5834200978279114
+tile_0179,"The image shows a mix of land cover types, including trees, grass, and possibly buildings or other structures.",0.633317232131958,0.7667192071676254,0.5892337113618851,0.7032650709152222
+tile_0180,"The image shows a coastal area with a mix of land cover types, including a large body of water in the center.",0.5977670848369598,0.5878572911024094,0.41230112314224243,0.5606764554977417
+tile_0181,"The image shows a remote sensing scene with a mix of land cover types, including trees, shrubs, and grass.",0.7032530009746552,0.8054916560649872,0.6580813229084015,0.7019729912281036
+tile_0182,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6799846887588501,0.7404620945453644,0.6196557357907295,0.6454160809516907
+tile_0183,"The remote sensing image shows a mix of land cover types, including trees, grass, and a building.",0.7485625147819519,0.784049853682518,0.6217007711529732,0.6287916004657745
+tile_0184,"The image shows a mix of land cover types, including trees, a dam, and a road.",0.7077781856060028,0.7578141242265701,0.5210040137171745,0.6146857887506485
+tile_0185,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6556962430477142,0.7140727341175079,0.5392071604728699,0.7091362774372101
+tile_0186,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5773423612117767,0.719107985496521,0.5366213619709015,0.604359470307827
+tile_0187,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6196915358304977,0.6720124185085297,0.6086301058530807,0.6161574274301529
+tile_0188,"The image shows a mix of land cover types, including trees, a bridge, and a dam.",0.6029154360294342,0.8046798408031464,0.506841167807579,0.5566506460309029
+tile_0189,"The remote sensing image shows a coastal area with a mix of land cover types, including trees, sand, and water.",0.6229816377162933,0.7392776012420654,0.5542279779911041,0.5921585112810135
+tile_0190,"The remote sensing image shows a mix of land cover types, including trees, a ship, and a large ship at the bottom.",0.6302206963300705,0.7277633249759674,0.5504801869392395,0.6264600157737732
+tile_0191,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.5560295283794403,0.6953573226928711,0.5340214818716049,0.5244326218962669
+tile_0192,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6590281426906586,0.7721193879842758,0.5820045620203018,0.6018863245844841
+tile_0193,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and some areas of water.",0.7323313504457474,0.7612749934196472,0.5509365350008011,0.5603481456637383
+tile_0194,"The remote sensing image shows a mix of land cover types, including trees, a road, and a building.",0.7102187722921371,0.7613617926836014,0.5944880843162537,0.5581985414028168
+tile_0195,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.5505504086613655,0.7270639389753342,0.6151970475912094,0.5612882226705551
+tile_0196,"The image shows a remote sensing scene with a building and trees in the center, surrounded by a mix of land cover types including trees, grass, and a building.",0.6912102550268173,0.7526876032352448,0.5823123082518578,0.657668262720108
+tile_0197,"The remote sensing image shows a mix of land cover types, including trees, water, and a single bridge.",0.7404796779155731,0.8473750203847885,0.42243901640176773,0.6544172763824463
+tile_0198,"The remote sensing image shows a mix of land cover types, including trees, water, and a single bridge.",0.6475316733121872,0.8502310514450073,0.4677575081586838,0.5805414915084839
+tile_0199,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the bottom right.",0.7138142734766006,0.820668637752533,0.5668327584862709,0.6350480020046234
+tile_0200,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6845609843730927,0.7745470851659775,0.5596194788813591,0.5266858637332916
+tile_0201,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.7239022850990295,0.8051493763923645,0.5571348965167999,0.5559101700782776
+tile_0202,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.6612574309110641,0.77577143907547,0.5646643042564392,0.6064513698220253
+tile_0203,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.6993216276168823,0.8221586048603058,0.5439664423465729,0.6629393249750137
+tile_0204,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6132407113909721,0.7611198723316193,0.6009729206562042,0.6399450451135635
+tile_0205,"The remote sensing image shows a mix of land cover types, including trees, grass, and a small area of land at the top.",0.7366517186164856,0.7906630635261536,0.5828054621815681,0.6932447105646133
+tile_0206,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a building.",0.6625524908304214,0.7897739857435226,0.48736050724983215,0.5036257952451706
+tile_0207,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6933844089508057,0.7342461496591568,0.4095017910003662,0.6299541145563126
+tile_0208,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6634563207626343,0.6664367020130157,0.5235601216554642,0.6006082147359848
+tile_0209,"The image shows a mix of land cover types, including trees, a soccer field, and a road.",0.600234754383564,0.7445709407329559,0.5400435626506805,0.5839867144823074
+tile_0210,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6079111248254776,0.7158143073320389,0.5875642597675323,0.7647454738616943
+tile_0211,"The image shows a mix of land cover types, including trees, fields, and a road.",0.5946298316121101,0.7612600922584534,0.5472488701343536,0.7341885566711426
+tile_0212,"The image shows a remote sensing scene with a bridge, some trees, and a road at the top.",0.6958399713039398,0.8132168650627136,0.5334477499127388,0.5952290818095207
+tile_0213,"The remote sensing image shows a mix of land cover types, including trees, water, and a single building.",0.65910704433918,0.8064354956150055,0.5832041800022125,0.595381110906601
+tile_0214,"The remote sensing image shows a coastal area with a mix of land cover types, including trees, water, and a single ship.",0.5785327777266502,0.6449632346630096,0.5137782916426659,0.5143635720014572
+tile_0215,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a ship.",0.7468056678771973,0.8339439332485199,0.5798859149217606,0.4710353910923004
+tile_0216,"The remote sensing image shows a mix of land cover types, including trees, water, and a single ship.",0.6557390093803406,0.8190418779850006,0.5945176631212234,0.6087411195039749
+tile_0217,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.5368232727050781,0.7198946177959442,0.4793406277894974,0.5958135426044464
+tile_0218,"The remote sensing image shows a mix of land cover types, including trees, buildings, and a road.",0.8053828775882721,0.7426397502422333,0.5778220295906067,0.6037171557545662
+tile_0219,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5696335062384605,0.6113714724779129,0.5513014271855354,0.6737534701824188
+tile_0220,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the top.",0.7100687175989151,0.7941950112581253,0.5397585779428482,0.6131124496459961
+tile_0221,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the bottom right.",0.6134774535894394,0.8360464125871658,0.5880959704518318,0.6922164559364319
+tile_0222,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a field.",0.7132540643215179,0.708511471748352,0.5389406532049179,0.6612721085548401
+tile_0223,"The remote sensing image shows a mix of land cover types, including trees, grass, and a small area of land at the bottom right.",0.7386370748281479,0.828426405787468,0.6221176311373711,0.7625147700309753
+tile_0224,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the bottom right.",0.639750212430954,0.8006967604160309,0.5732175707817078,0.5899329483509064
+tile_0225,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6557159125804901,0.6614068150520325,0.62800332903862,0.5108065903186798
+tile_0226,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6719720363616943,0.7520705461502075,0.5024197697639465,0.5313259735703468
+tile_0227,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6900908052921295,0.6476850062608719,0.601891428232193,0.4114414006471634
+tile_0228,"The image shows a mix of land cover types, including trees, a bridge, and a dam.",0.6164631992578506,0.7990920543670654,0.48266466706991196,0.5618999898433685
+tile_0229,"The image shows a remote sensing scene with a mix of land cover types, including trees, a river, and a bridge.",0.6659272313117981,0.8520206809043884,0.5198422446846962,0.6055010855197906
+tile_0230,"The image shows a mix of land cover types, including trees, fields, and a building.",0.66840760409832,0.7614172250032425,0.4639856517314911,0.6388694792985916
+tile_0231,"The image shows a mix of land cover types, including trees, a dam, and a road.",0.6809768825769424,0.7043967396020889,0.4769594594836235,0.6438452750444412
+tile_0232,"The image shows a mix of land cover types, including trees, a road, and a building.",0.6629897654056549,0.717378631234169,0.6203575432300568,0.6142359226942062
+tile_0233,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6384603679180145,0.7373063266277313,0.612214021384716,0.6912136077880859
+tile_0234,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6157050281763077,0.7220041751861572,0.30553407967090607,0.6289075314998627
+tile_0235,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.5537492781877518,0.7236649841070175,0.40661096572875977,0.7223992049694061
+tile_0236,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5915002152323723,0.7335393130779266,0.6783352792263031,0.6387034803628922
+tile_0237,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5220358446240425,0.6827999651432037,0.5921447277069092,0.6313222646713257
+tile_0238,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a road.",0.6226180493831635,0.8202594518661499,0.5717962235212326,0.5902492254972458
+tile_0239,"The remote sensing image shows a mix of land cover types, including trees, water, and a single building.",0.6361818313598633,0.8432218432426453,0.6003343686461449,0.563228577375412
+tile_0240,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a road.",0.6577180325984955,0.7109881192445755,0.5342127755284309,0.5399616435170174
+tile_0241,"The image shows a coastal area with a mix of land cover types, including trees and water.",0.592903308570385,0.5700197443366051,0.51219142973423,0.5158147215843201
+tile_0242,"The image shows a coastal area with a mix of trees and buildings, with some trees located at the bottom left and right.",0.6657678633928299,0.7753492891788483,0.6655357778072357,0.5715297162532806
+tile_0243,"The remote sensing image shows a coastal area with a mix of land cover types, including trees and water.",0.6013846397399902,0.660763680934906,0.541573241353035,0.5742838606238365
+tile_0244,"The remote sensing image shows a mix of land cover types, including trees and a building, located at the bottom of the image.",0.6823600828647614,0.714864581823349,0.6468561291694641,0.6159739941358566
+tile_0245,"The remote sensing image shows a mix of land cover types, including trees, buildings, and a road.",0.6913074851036072,0.7696639001369476,0.6379471719264984,0.5231025069952011
+tile_0246,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6850413233041763,0.6785239279270172,0.617816150188446,0.5636248365044594
+tile_0247,"The image shows a mix of land cover types, including trees, a windmill, and a road.",0.7058297097682953,0.6637604534626007,0.4152020066976547,0.5035033077001572
+tile_0248,"The image shows a mix of land cover types, including trees, a dam, and a road.",0.5885199457406998,0.6257440149784088,0.4898868501186371,0.6019621342420578
+tile_0249,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a building.",0.6641127169132233,0.7235224545001984,0.5906219780445099,0.5506507307291031
+tile_0250,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.5483841896057129,0.6162567436695099,0.4162806272506714,0.4973931238055229
+tile_0251,"The image shows a mix of land cover types, including trees, grass, and possibly buildings or other structures.",0.6286907196044922,0.6912676990032196,0.569644533097744,0.6910413503646851
+tile_0252,"The image shows a remote sensing scene with a mix of land cover types, including trees, a river, and a bridge.",0.733901709318161,0.8308929949998856,0.4988238960504532,0.6107427552342415
+tile_0253,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6744302064180374,0.7379459589719772,0.40144309401512146,0.7342563569545746
+tile_0254,"The image shows a bridge and a road, with the bridge located at the top right and the road at the bottom. The land cover type visible is a bridge and a road.",0.7414244115352631,0.7115761935710907,0.359649658203125,0.48517145216464996
+tile_0255,"The image shows a mix of land cover types, including trees, a road, and a bridge.",0.658712312579155,0.6992066651582718,0.4662703350186348,0.5463831126689911
+tile_0256,"The image shows a remote sensing scene with a mix of land cover types, including trees, shrubs, and grass.",0.642114132642746,0.8299668878316879,0.5481534451246262,0.7664595544338226
+tile_0257,"The remote sensing image shows a mix of land cover types, including a building, trees, and a road.",0.7856784760951996,0.8160734921693802,0.6354186683893204,0.6834179162979126
+tile_0258,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.7622668147087097,0.7635889202356339,0.4658273980021477,0.7364770770072937
+tile_0259,"The image shows a mix of land cover types, including trees, a road, and a bridge.",0.6706754863262177,0.8056946098804474,0.4565374180674553,0.6549133360385895
+tile_0260,"The image shows a mix of land cover types, including trees, shrubs, and a golf field.",0.6538368761539459,0.7303892821073532,0.3776315599679947,0.6331248581409454
+tile_0261,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6369876861572266,0.7576041668653488,0.474553219974041,0.6675879657268524
+tile_0262,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a single bridge.",0.7482622563838959,0.8090148121118546,0.3969087451696396,0.7465637475252151
+tile_0263,"The image shows a mix of land cover types, including trees, a golf field, and a bridge.",0.626392662525177,0.7553055137395859,0.40370121598243713,0.5958034470677376
+tile_0264,"The remote sensing image shows a mix of land cover types, including trees, a building, and a road.",0.5884569138288498,0.7776308059692383,0.6376528739929199,0.6197779253125191
+tile_0265,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the top.",0.684424638748169,0.8063776791095734,0.6099922955036163,0.6164276599884033
+tile_0266,"The image shows a remote sensing scene with a bridge and some trees at the left, and a large bridge at the left.",0.6697992980480194,0.7954214513301849,0.3057674318552017,0.35426951944828033
+tile_0267,"The remote sensing image shows a mix of land cover types, including trees, water, and a small harbor.",0.7293536514043808,0.8053494989871979,0.5916933342814445,0.5879106372594833
+tile_0268,"The remote sensing image shows a mix of land cover types, including trees, water, and a small harbor.",0.6829844415187836,0.8078471571207047,0.5824810639023781,0.5890049785375595
+tile_0269,"The remote sensing image shows a coastal area with a mix of land cover types, including trees, buildings, and a ship.",0.6183706969022751,0.7583653926849365,0.4421021044254303,0.5239089950919151
+tile_0270,"The remote sensing image shows a mix of land cover types, including trees, a road, and a small vehicle.",0.6842448562383652,0.7137314975261688,0.4464012384414673,0.5745559185743332
+tile_0271,"The image shows a mix of land cover types, including trees, a road, and a building.",0.664130225777626,0.6531744450330734,0.5972401052713394,0.6045234948396683
+tile_0272,"The image shows a mix of land cover types, including trees, a dam, and a golf field.",0.7005327939987183,0.7662904262542725,0.5320432037115097,0.5462071299552917
+tile_0273,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a single building.",0.7267282903194427,0.796850174665451,0.5171112343668938,0.5523256957530975
+tile_0274,"The image shows a river with trees on both sides, with the left side being more densely wooded.",0.6362643092870712,0.822041779756546,0.5986516922712326,0.6768099963665009
+tile_0275,"The image shows a mix of land cover types, including trees, shrubs, and grass, with some areas appearing to be more densely vegetated than others.",0.637822300195694,0.6509215384721756,0.6349128484725952,0.7110689580440521
+tile_0276,"The image shows a remote sensing scene with a bridge, a building, and a road, with the bridge being the most prominent feature in the center.",0.6536472588777542,0.8178038150072098,0.3966568410396576,0.5158412083983421
+tile_0277,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.7170217484235764,0.6056250631809235,0.40224239230155945,0.42506031692028046
+tile_0278,"The image shows a mix of land cover types, including trees, water, and a single bridge.",0.6841887533664703,0.697803795337677,0.4182656854391098,0.40153153240680695
+tile_0279,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.735020786523819,0.7411324977874756,0.4600299894809723,0.5380518734455109
+tile_0280,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.720936506986618,0.8285582810640335,0.5320446938276291,0.5029848217964172
+tile_0281,The image shows a field at the center with some trees at the right.,0.5665813386440277,0.7340468466281891,0.5700203776359558,0.6544588506221771
+tile_0282,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a building.",0.699048638343811,0.8363915979862213,0.5746098607778549,0.5789116024971008
+tile_0283,"The image shows a mix of land cover types, including trees, a building, and a road.",0.6675298511981964,0.6919348239898682,0.6044450029730797,0.6011264398694038
+tile_0284,"The image shows a mix of land cover types, including trees, a road, and a building.",0.6303414702415466,0.7351014018058777,0.6079255044460297,0.7427074760198593
+tile_0285,"The image shows a mix of land cover types, including trees, grass, and a building.",0.6347257643938065,0.6759840250015259,0.5537525191903114,0.6569266319274902
+tile_0286,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.7186955213546753,0.7538889348506927,0.5951246619224548,0.6151217967271805
+tile_0287,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the bottom right.",0.7029247283935547,0.8007071912288666,0.5951444059610367,0.6180483847856522
+tile_0288,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and some areas of water.",0.7089558243751526,0.7945828139781952,0.5910715088248253,0.6850405037403107
+tile_0289,"The image shows a coastal area with a mix of land cover types, including trees, grass, and a building.",0.5863834917545319,0.5915464460849762,0.4752204567193985,0.5391056090593338
+tile_0290,"The image shows a mix of land cover types, including trees, grass, and possibly buildings or other structures.",0.5703000724315643,0.6327909231185913,0.6368014216423035,0.6934730708599091
+tile_0291,"The image shows a mix of land cover types, including trees, shrubs, and grass, with some areas appearing to be more densely vegetated than others.",0.6256040930747986,0.6870859861373901,0.6676122546195984,0.8183185756206512
+tile_0292,"The image shows a coastal area with a mix of land cover types, including trees, grass, and possibly a building or two.",0.6139952316880226,0.7014118134975433,0.48886049538850784,0.5896764248609543
+tile_0293,"The remote sensing image shows a mix of land cover types, including trees, water, and a small area of land at the bottom right.",0.7203977555036545,0.8234693109989166,0.5803566426038742,0.6575387716293335
+tile_0294,"The remote sensing image shows a mix of land cover types, including trees, buildings, and a road.",0.6443417072296143,0.7892045378684998,0.6203962862491608,0.5872565880417824
+tile_0295,"The image shows a remote sensing scene with a mix of land cover types, including trees, a ship, and a large gray ship at the top.",0.7563532143831253,0.7816912978887558,0.6248236075043678,0.5721723660826683
+tile_0296,"The remote sensing image shows a mix of land cover types, including trees, water, and a small bridge.",0.7770064473152161,0.8488720655441284,0.5291884019970894,0.5290583148598671
+tile_0297,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6620082259178162,0.6648818403482437,0.5914464965462685,0.6548178941011429
+tile_0298,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a small area of land at the bottom left.",0.735662430524826,0.819486528635025,0.6420465558767319,0.5926220864057541
+tile_0299,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6607602536678314,0.7049468904733658,0.40174681693315506,0.6255360692739487
+tile_0300,"The image shows a mix of land cover types, including a bridge, a building, a dam, and a road, with the bridge being the most prominent feature.",0.7086459547281265,0.7519496977329254,0.33033400774002075,0.5846845358610153
+tile_0301,"The image shows a mix of land cover types, including trees, shrubs, and a building, with some trees located at the bottom right.",0.7203976809978485,0.7754378765821457,0.6636644899845123,0.6199520826339722
+tile_0302,"The image shows a mix of land cover types, including trees, a golf field, and a bridge.",0.6616237759590149,0.7408678531646729,0.4190029203891754,0.6461192667484283
+tile_0303,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7246808707714081,0.7677441835403442,0.5672132968902588,0.6591952592134476
+tile_0304,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6640950590372086,0.6963954865932465,0.6105510890483856,0.6716029345989227
+tile_0305,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.5862924456596375,0.6663860380649567,0.5183671042323112,0.662480890750885
+tile_0306,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6748565286397934,0.8093848824501038,0.5565091967582703,0.6879961490631104
+tile_0307,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a large area of grassland.",0.6664351373910904,0.7492462545633316,0.5766281858086586,0.7066154479980469
+tile_0308,"The image shows a remote sensing scene with a bridge and some trees in the center, surrounded by a mix of land cover types.",0.687730610370636,0.8388608694076538,0.50551638007164,0.6462913751602173
+tile_0309,"The image shows a coastal area with a mix of land cover types, including trees, grass, and a building.",0.6589117646217346,0.702662318944931,0.47468412667512894,0.598459392786026
+tile_0310,"The image shows a mix of land cover types, including trees, grass, and a small area of land at the bottom right.",0.6448907405138016,0.6972596794366837,0.6420512497425079,0.7721532881259918
+tile_0311,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a small area of land at the top.",0.7174036651849747,0.7589305937290192,0.5987311154603958,0.5789332836866379
+tile_0312,"The image shows a mix of land cover types, including trees, a river, and a bridge.",0.6424121558666229,0.8054748177528381,0.644887238740921,0.6444574892520905
+tile_0313,"The image shows a mix of land cover types, including trees, water, and a single building.",0.592481791973114,0.7213007658720016,0.5339885875582695,0.5325835943222046
+tile_0314,"The image shows a mix of land cover types, including trees, grass, and a golf field.",0.6255378574132919,0.5627661570906639,0.5775348097085953,0.5903756618499756
+tile_0315,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a single ship.",0.6956654787063599,0.8048902451992035,0.5417536571621895,0.5980105698108673
+tile_0316,"The image shows a remote sensing scene with a bridge and some trees at the top left, and a large bridge at the top right.",0.7114104926586151,0.8344623446464539,0.3830666095018387,0.4777252674102783
+tile_0317,"The remote sensing image shows a mix of land cover types, including trees, water, and a single bridge.",0.6570186465978622,0.8042048662900925,0.5011580884456635,0.5409679561853409
+tile_0318,"The remote sensing image shows a mix of land cover types, including trees, water, and a single building.",0.6495490670204163,0.7958626747131348,0.5919747054576874,0.5601567775011063
+tile_0319,"The remote sensing image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.6248591095209122,0.6988489627838135,0.47090277075767517,0.5215972661972046
+tile_0320,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6149895489215851,0.658951923251152,0.5930734425783157,0.5474962294101715
+tile_0321,"The remote sensing image shows a coastal area with a mix of land cover types, including trees and water.",0.5567925423383713,0.691867470741272,0.4812614992260933,0.6022236123681068
+tile_0322,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6237631663680077,0.6731784343719482,0.49204200506210327,0.5281496793031693
+tile_0323,"The remote sensing image shows a mix of land cover types, including a large area of greenery, possibly a forest or a field, and a smaller area of water, possibly a river or a lake.",0.766589492559433,0.7391762733459473,0.5367058888077736,0.6081804633140564
+tile_0324,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6658139079809189,0.6850768625736237,0.5893752723932266,0.616338923573494
+tile_0325,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7228345423936844,0.7790331542491913,0.5082397162914276,0.7119686156511307
+tile_0326,"The remote sensing image shows a mix of land cover types, including a bridge, a building, and a road, with the bridge being the most prominent feature.",0.7434763759374619,0.8119067549705505,0.40199950337409973,0.5891472473740578
+tile_0327,The image shows a bridge and some trees at the top right corner of the scene.,0.5916385352611542,0.6578171998262405,0.5674855783581734,0.6377416849136353
+tile_0328,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and possibly buildings or other structures.",0.7174323499202728,0.8336131274700165,0.6466712057590485,0.6636835634708405
+tile_0329,"The image shows a mix of land cover types, including trees, grass, and a building.",0.5107594281435013,0.6149587035179138,0.566057600080967,0.6640002131462097
+tile_0330,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a road.",0.8586065471172333,0.852266326546669,0.614468976855278,0.5926970392465591
+tile_0331,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a small vehicle.",0.6437738239765167,0.7715528458356857,0.5786258727312088,0.6460966169834137
+tile_0332,"The image shows a remote sensing scene with a mix of land cover types, including trees, shrubs, and a road.",0.7890480756759644,0.7935923337936401,0.5474593490362167,0.7004572451114655
+tile_0333,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6019901484251022,0.7682786136865616,0.5485899746417999,0.7145527005195618
+tile_0334,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6864260882139206,0.7188421487808228,0.6004021689295769,0.6301583349704742
+tile_0335,"The image shows a mix of land cover types, including trees, shrubs, and a golf field.",0.583241656422615,0.653737336397171,0.49944210797548294,0.7217243313789368
+tile_0336,"The image shows a remote sensing scene with a mix of land cover types, including trees, water, and a dam.",0.66412553191185,0.8304011821746826,0.4781658947467804,0.5363214761018753
+tile_0337,"The image shows a mix of land cover types, including trees, a golf field, and a bridge.",0.6797999888658524,0.77156201004982,0.45502088963985443,0.6092247739434242
+tile_0338,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6681209057569504,0.7504291087388992,0.6008197367191315,0.4207286983728409
+tile_0339,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6513924896717072,0.6192954629659653,0.440116748213768,0.4836238920688629
+tile_0340,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and some areas of water.",0.6947121024131775,0.8007150888442993,0.586516410112381,0.6339898705482483
+tile_0341,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6774429976940155,0.6880208849906921,0.5848610401153564,0.7462446391582489
+tile_0342,"The image shows a remote sensing scene with a mix of land cover types, including trees, shrubs, and grass.",0.7595084607601166,0.7722415030002594,0.6420232355594635,0.7642248272895813
+tile_0343,"The remote sensing image shows a mix of land cover types, including trees, fields, and a road.",0.7864123582839966,0.8230616897344589,0.5159874260425568,0.6288859248161316
+tile_0344,"The remote sensing image shows a mix of land cover types, including trees, a road, and a field.",0.7346063852310181,0.7730789482593536,0.4634367674589157,0.643371194601059
+tile_0345,"The remote sensing image shows a mix of land cover types, including buildings, trees, and a road.",0.7014676183462143,0.764022096991539,0.48415809869766235,0.5179871246218681
+tile_0346,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.6370772421360016,0.6723013520240784,0.4828622192144394,0.5197100341320038
+tile_0347,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, and a road, with some trees and a building at the top right.",0.8012072741985321,0.7410645484924316,0.3399118036031723,0.41115786880254745
+tile_0348,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6496098637580872,0.6818270683288574,0.42382288724184036,0.49532167613506317
+tile_0349,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6328622251749039,0.664326623082161,0.599881149828434,0.5348344892263412
+tile_0350,"The remote sensing image shows a mix of land cover types, including trees, a road, and a bridge.",0.7868397235870361,0.8719122409820557,0.5149335414171219,0.7250777631998062
+tile_0351,"The image shows a bridge and some trees in the center, with the bridge being the most prominent feature.",0.6443190574645996,0.6299580633640289,0.44264785945415497,0.4751637578010559
+tile_0352,"The image shows a remote sensing scene with a mix of land cover types, including trees, a bridge, and a road.",0.745999738574028,0.8084455877542496,0.589170791208744,0.5843086540699005
+tile_0353,"The image shows a single land cover type, which is a road, running through the center of the scene.",0.6706733256578445,0.6920935213565826,0.6420530378818512,0.5725806951522827
+tile_0354,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a storage tank.",0.6841804832220078,0.7827548682689667,0.5557610839605331,0.6221391633152962
+tile_0355,"The image shows a mix of land cover types, including trees, grass, and rocks.",0.665867030620575,0.7264015823602676,0.6002676486968994,0.8131186664104462
+tile_0356,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a building.",0.7364657521247864,0.7897530496120453,0.5673123151063919,0.5760275200009346
+tile_0357,"The image shows a mix of land cover types, including trees, a golf field, and a bridge.",0.6239476054906845,0.6982343643903732,0.44174976646900177,0.5668091401457787
+tile_0358,"The image shows a mix of land cover types, including trees, grass, and a building.",0.5493845418095589,0.6431505084037781,0.5348782241344452,0.6942050158977509
+tile_0359,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.6794310361146927,0.751439779996872,0.5652386695146561,0.5571473762392998
+tile_0360,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7238304615020752,0.7872970402240753,0.5514983832836151,0.5288024246692657
+tile_0361,"The image shows a mix of land cover types, including trees, buildings, and a soccer field.",0.7691483944654465,0.8125695586204529,0.5581652000546455,0.5172914266586304
+tile_0362,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.702916830778122,0.7302863895893097,0.5604305863380432,0.573844388127327
+tile_0363,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7159794867038727,0.7307089865207672,0.5595661327242851,0.5493283271789551
+tile_0364,"The remote sensing image shows a mix of land cover types, including trees, grass, and a building.",0.68034827709198,0.8155806362628937,0.5484313517808914,0.600287988781929
+tile_0365,"The remote sensing image shows a mix of land cover types, including trees, crops, and possibly a river or waterway.",0.7087728381156921,0.7513938099145889,0.5259286612272263,0.6803344190120697
+tile_0366,"The image shows a mix of land cover types, including an expressway-toll-station, trees, and a toll station.",0.6242012977600098,0.7090992480516434,0.5152913182973862,0.6263518333435059
+tile_0367,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6943023204803467,0.728578120470047,0.579470731317997,0.5665580183267593
+tile_0368,"The image shows a mix of land cover types, including a bridge, buildings, and a road, with some trees and a large bridge at the bottom.",0.6111470609903336,0.5947683751583099,0.4401245340704918,0.4863789677619934
+tile_0369,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7041282951831818,0.6961733847856522,0.5398066341876984,0.5374424532055855
+tile_0370,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7073317468166351,0.7073196023702621,0.5836118012666702,0.5396918207406998
+tile_0371,"The image shows a mix of land cover types, including buildings, roads, and a bridge, with some trees and a roundabout present.",0.6328877806663513,0.672643780708313,0.363122820854187,0.4897935688495636
+tile_0372,"The remote sensing image shows a mix of land cover types, including buildings, trees, and a road.",0.7767565548419952,0.767953023314476,0.5665264278650284,0.5405433475971222
+tile_0373,"The remote sensing image shows a mix of land cover types, including trees, water, and a single bridge.",0.6991705298423767,0.8078338205814362,0.42754627764225006,0.6640323996543884
+tile_0374,"The image shows a remote sensing scene with a bridge, trees, and a golf field.",0.7402598112821579,0.8330530673265457,0.3754418343305588,0.604713000357151
+tile_0375,"The image shows a bridge and some trees in the center, with a road at the bottom right and a building at the top right. The land cover type visible is a mix of trees and a bridge.",0.6263304501771927,0.6924165785312653,0.2779691852629185,0.6281445920467377
+tile_0376,"The remote sensing image shows a mix of land cover types, including trees, a road, and a field.",0.7237900048494339,0.7169143855571747,0.5307761579751968,0.5074433237314224
+tile_0377,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6698113679885864,0.7678253203630447,0.5821352452039719,0.6495700776576996
+tile_0378,"The image shows a mix of land cover types, including trees, water, and a single bridge.",0.6602298468351364,0.733267217874527,0.41448045521974564,0.4300421476364136
+tile_0379,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a building, with some trees located at the bottom left and top left.",0.7060668617486954,0.81914022564888,0.45532219111919403,0.5403617024421692
+tile_0380,"The image shows a coastal area with a mix of land cover types, including trees, buildings, and a road.",0.5231105536222458,0.6371606886386871,0.33376075327396393,0.6122800707817078
+tile_0381,"The image shows a mix of land cover types, including trees, grass, and a building.",0.5438243970274925,0.6362785398960114,0.5372599512338638,0.7573072612285614
+tile_0382,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and some buildings.",0.747431218624115,0.8075437694787979,0.5823835730552673,0.6742268055677414
+tile_0383,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.738336592912674,0.770699679851532,0.5564077198505402,0.4687781259417534
+tile_0384,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a golf field.",0.7345579564571381,0.8095981180667877,0.5256602540612221,0.43321117758750916
+tile_0385,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a dam.",0.8397939801216125,0.8522672951221466,0.5702121555805206,0.5075766518712044
+tile_0386,"The image shows a mix of land cover types, including trees, fields, and a building.",0.6500960141420364,0.80328568816185,0.46131767332553864,0.6220042333006859
+tile_0387,"The image shows a remote sensing scene with a mix of land cover types, including trees, an airport, and a road.",0.6502775847911835,0.8138915151357651,0.42985446751117706,0.6449323892593384
+tile_0388,"The image shows a mix of land cover types, including trees, roads, and a single building.",0.7217568159103394,0.751267820596695,0.5614437907934189,0.6752541661262512
+tile_0389,"The image shows a remote sensing scene with a bridge, two buildings, and a road, with the bridge being the most prominent feature in the center.",0.6951446831226349,0.7589126378297806,0.35990871489048004,0.5753009766340256
+tile_0390,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6777545809745789,0.7318666577339172,0.4727661609649658,0.6490790843963623
+tile_0391,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.767890214920044,0.8246238529682159,0.365467369556427,0.6491848826408386
+tile_0392,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.6132572889328003,0.7198759168386459,0.40353383868932724,0.6370992958545685
+tile_0393,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7298946380615234,0.6955480575561523,0.559622012078762,0.6510142982006073
+tile_0394,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6353840231895447,0.7245130836963654,0.6156209856271744,0.5295712873339653
+tile_0395,"The image shows a mix of land cover types, including trees, a bridge, and a dam.",0.606793537735939,0.7606637477874756,0.4444778338074684,0.7562966644763947
+tile_0396,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7029525935649872,0.7671163976192474,0.5760655179619789,0.7748809456825256
+tile_0397,"The remote sensing image shows a mix of land cover types, including a large area of greenery, possibly a field or a park, and a smaller area of water, possibly a lake or a pond.",0.7593110203742981,0.8152119815349579,0.45714184641838074,0.6733724474906921
+tile_0398,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6487137824296951,0.7097384333610535,0.37080131471157074,0.6159360334277153
+tile_0399,"The remote sensing image shows a mix of land cover types, including a large area of green grass, some trees, and a few buildings.",0.7953669130802155,0.8287768810987473,0.5292607098817825,0.5743225291371346
+tile_0400,"The remote sensing image shows a mix of land cover types, including trees, a building, and a road.",0.7705232501029968,0.7543018460273743,0.6501199305057526,0.5873500928282738
+tile_0401,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6944414973258972,0.6736882030963898,0.6521584838628769,0.6411819159984589
+tile_0402,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6403397768735886,0.7113496959209442,0.5757018178701401,0.5388592183589935
+tile_0403,"The image shows a remote sensing scene with a mix of land cover types, including grass, trees, and a building.",0.6273224949836731,0.7508425414562225,0.5045919865369797,0.7129721343517303
+tile_0404,"The image shows a mix of land cover types, including trees, grass, and a building.",0.5627551674842834,0.5466699972748756,0.4955825209617615,0.7209427654743195
+tile_0405,"The image shows a remote sensing scene with a bridge and some trees in the center, surrounded by a field.",0.6416040658950806,0.8750146627426147,0.44346943497657776,0.5102941393852234
+tile_0406,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.74393630027771,0.7157918065786362,0.58089479804039,0.6333383917808533
+tile_0407,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6807021051645279,0.6652278453111649,0.458783283829689,0.5249474942684174
+tile_0408,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6956937164068222,0.6751224398612976,0.5619226023554802,0.546177476644516
+tile_0409,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.8384315669536591,0.7758799940347672,0.5370547249913216,0.5584017559885979
+tile_0410,"The remote sensing image shows a mix of land cover types, including a bridge, a building, and a road, with the bridge being the most prominent feature.",0.8032860606908798,0.7996378093957901,0.46787768602371216,0.45226670801639557
+tile_0411,"The image shows a remote sensing scene with a bridge, two buildings, and a road, with the bridge and buildings located at the top right and the road at the top.",0.7675492763519287,0.632120668888092,0.2748229168355465,0.4401616007089615
+tile_0412,"The image shows a mix of land cover types, including trees, a road, and a bridge.",0.6684236973524094,0.7095107436180115,0.4780310392379761,0.5258244276046753
+tile_0413,"The image shows a bridge and a building, with some trees at the top, and a road at the top right.",0.6585000455379486,0.7417473942041397,0.4952072724699974,0.7074863463640213
+tile_0414,"The image shows a mix of land cover types, including trees, a building, and a road.",0.7111774384975433,0.691203847527504,0.4900561273097992,0.5811522901058197
+tile_0415,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.68348728120327,0.7177442312240601,0.4553491249680519,0.5865322053432465
+tile_0416,"The image shows a mix of land cover types, including trees, a bridge, and a golf field.",0.7254990935325623,0.7563789188861847,0.4353112727403641,0.5958317220211029
+tile_0417,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6372968107461929,0.599745437502861,0.5776869133114815,0.6317231059074402
+tile_0418,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.7058842480182648,0.7634451985359192,0.48883475363254547,0.6436565518379211
+tile_0419,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, and a road, with some trees and a gray small bridge at the left.",0.7948057353496552,0.7707441598176956,0.4812316223978996,0.5470592528581619
+tile_0420,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6041377037763596,0.6580112874507904,0.5392821878194809,0.6033739075064659
+tile_0421,"The remote sensing image shows a mix of land cover types, including trees, buildings, and a road.",0.6788259744644165,0.8075733482837677,0.5610235035419464,0.6600119918584824
+tile_0422,"The remote sensing image shows a mix of land cover types, including trees, a bridge, and a road.",0.7954347133636475,0.8129650354385376,0.6072695553302765,0.6719058752059937
+tile_0423,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5750584602355957,0.6896653026342392,0.6117948144674301,0.6747746467590332
+tile_0424,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6757113337516785,0.7065976411104202,0.591357983648777,0.6347745656967163
+tile_0425,"The remote sensing image shows a mix of land cover types, including trees, shrubs, and grass, with some areas appearing to be more densely vegetated than others.",0.6430437415838242,0.7666228711605072,0.6221996247768402,0.6725862622261047
+tile_0426,"The image shows a mix of land cover types, including trees, grass, and possibly buildings or other structures.",0.5706236511468887,0.6489565223455429,0.5137191712856293,0.7059000432491302
+tile_0427,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.544244684278965,0.5543995648622513,0.4535570368170738,0.7103182375431061
+tile_0428,"The image shows a mix of land cover types, including trees, water, and a single bridge.",0.6603649258613586,0.7534141838550568,0.4085962474346161,0.4714065045118332
+tile_0429,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6504866480827332,0.7060453295707703,0.48087626695632935,0.6652190536260605
+tile_0430,"The image shows a mix of land cover types, including trees, a building, and a road.",0.7082626223564148,0.785272940993309,0.6700043380260468,0.6102760136127472
+tile_0431,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6127066165208817,0.6922478973865509,0.4550322890281677,0.5281266570091248
+tile_0432,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7579406350851059,0.7482908666133881,0.5557082965970039,0.5654732510447502
+tile_0433,"The image shows a mix of land cover types, including trees, roads, and a single building.",0.7233420759439468,0.7341083884239197,0.4986056312918663,0.5830368399620056
+tile_0434,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7056678831577301,0.6606397032737732,0.5435273051261902,0.5361480265855789
+tile_0435,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6673151254653931,0.7163143157958984,0.430864579975605,0.6536170095205307
+tile_0436,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.7342536747455597,0.7606305927038193,0.5876036733388901,0.5861074477434158
+tile_0437,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6443680077791214,0.7442568987607956,0.5264470726251602,0.47240860760211945
+tile_0438,"The image shows a remote sensing scene with a mix of land cover types, including trees, an expressway-toll-station, and a road.",0.7614800333976746,0.8051247149705887,0.5654850602149963,0.5824007466435432
+tile_0439,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7581174373626709,0.8203594386577606,0.6311635673046112,0.5486290156841278
+tile_0440,"The image shows a mix of land cover types, including trees, a bridge, and a dam.",0.737622007727623,0.7443992793560028,0.4303599148988724,0.5638358741998672
+tile_0441,"The image shows a mix of land cover types, including trees, a golf field, and a road.",0.5035287514328957,0.67940354347229,0.5008943006396294,0.7284799218177795
+tile_0442,"The image shows a mix of land cover types, including trees, a windmill, and a road.",0.7205773890018463,0.7902804017066956,0.5384984239935875,0.7099856436252594
+tile_0443,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6862747669219971,0.7842112332582474,0.5444685369729996,0.7146769762039185
+tile_0444,"The image shows a mix of land cover types, including trees, a road, and a bridge.",0.7222343981266022,0.7814916223287582,0.5393734574317932,0.6996186822652817
+tile_0445,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6256823241710663,0.7031629234552383,0.46721577644348145,0.607941634953022
+tile_0446,"The remote sensing image shows a mix of land cover types, including trees, crops, and water, with some areas appearing to be a combination of these.",0.7236869633197784,0.8085738867521286,0.41232988238334656,0.6259950995445251
+tile_0447,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6304426491260529,0.7504379749298096,0.47955919057130814,0.6476125866174698
+tile_0448,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.770181342959404,0.7665950059890747,0.4504900425672531,0.5928927659988403
+tile_0449,The image shows a remote sensing scene with a land cover type visible.,0.7052991539239883,0.840408056974411,0.6520393490791321,0.7663851231336594
+tile_0450,"The image shows a remote sensing scene with a mix of land cover types, including trees, grass, and a building.",0.6254323571920395,0.7596176862716675,0.5956359207630157,0.6706361472606659
+tile_0451,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7122425734996796,0.7291387766599655,0.5560663342475891,0.6459446251392365
+tile_0452,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7082860171794891,0.7243342697620392,0.47491148114204407,0.4581959918141365
+tile_0453,"The image shows a mix of land cover types, including baseball fields, buildings, trees, and a road.",0.7111260294914246,0.7856135070323944,0.3497243672609329,0.3877611458301544
+tile_0454,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7036443054676056,0.7369281351566315,0.5698303133249283,0.629761815071106
+tile_0455,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6544601917266846,0.6835103034973145,0.41808880865573883,0.5768533051013947
+tile_0456,"The remote sensing image shows a mix of land cover types, including trees, shrubs, and a small bridge.",0.7996612787246704,0.8288437128067017,0.5326602607965469,0.6667327880859375
+tile_0457,"The image shows a mix of land cover types, including trees, a golf field, and a bridge.",0.5959895998239517,0.7520579546689987,0.3937399387359619,0.6518369168043137
+tile_0458,"The image shows a mix of land cover types, including trees, grass, and a small area of trees at the top right.",0.612146407365799,0.7694222033023834,0.6829674541950226,0.6830418109893799
+tile_0459,"The image shows a bridge and a road, with some trees and a building in the background. The land cover type visible is a bridge.",0.5770689249038696,0.7012023031711578,0.6279569864273071,0.5709494650363922
+tile_0460,"The remote sensing image shows a mix of land cover types, including trees, a road, and a small vehicle.",0.8542555570602417,0.7808640599250793,0.5754777044057846,0.5999340489506721
+tile_0461,"The image shows a mix of land cover types, including trees, a road, and a golf field.",0.7432777434587479,0.7591394335031509,0.5656931549310684,0.47106821089982986
+tile_0462,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a body of water.",0.771745890378952,0.8175170421600342,0.6176098436117172,0.5946829915046692
+tile_0463,"The image shows a bridge and some trees, with the bridge being the most prominent feature.",0.6789364665746689,0.6698151677846909,0.4988623410463333,0.6068799644708633
+tile_0464,"The image shows a bridge and some trees in the center, with a gray bridge and some trees at the top.",0.6942881643772125,0.725349485874176,0.5410236120223999,0.619908906519413
+tile_0465,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.7250692695379257,0.7335992157459259,0.528196431696415,0.6496123224496841
+tile_0466,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6701090186834335,0.7912059128284454,0.47821663320064545,0.710776075720787
+tile_0467,"The image shows a mix of land cover types, including trees, fields, and a road.",0.7225930690765381,0.7874448597431183,0.6435459852218628,0.702606588602066
+tile_0468,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6482867896556854,0.7879350334405899,0.5333316326141357,0.805630087852478
+tile_0469,"The image shows a mix of land cover types, including trees, a road, and a bridge.",0.6625254452228546,0.7284639030694962,0.5390442907810211,0.6594035029411316
+tile_0470,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.6329711526632309,0.7396624237298965,0.4832211136817932,0.7047538459300995
+tile_0471,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6808290630578995,0.689847320318222,0.5111943557858467,0.7232210785150528
+tile_0472,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.698402002453804,0.7267357409000397,0.5447659268975258,0.5322105064988136
+tile_0473,"The image shows a mix of land cover types, including a bridge, an expressway-toll-station, and a road, with some trees and a building in the background.",0.6454324722290039,0.6087983399629593,0.3643057122826576,0.482095442712307
+tile_0474,"The image shows a mix of land cover types, including trees, buildings, and a bridge.",0.5657169222831726,0.7244261354207993,0.40875114500522614,0.7382432371377945
+tile_0475,"The image shows a mix of land cover types, including trees, buildings, and a golf field.",0.716949850320816,0.7372764497995377,0.4887695237994194,0.6588700413703918
+tile_0476,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7051649689674377,0.7485180348157883,0.5295801162719727,0.4484228789806366
+tile_0477,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6884309649467468,0.7480665296316147,0.49926239997148514,0.5215408653020859
+tile_0478,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6638210266828537,0.6352494657039642,0.4625052213668823,0.4886772483587265
+tile_0479,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6178168207406998,0.7304339855909348,0.5679317563772202,0.5876196175813675
+tile_0480,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a small vehicle.",0.7820191979408264,0.7727965712547302,0.6242643669247627,0.6054399535059929
+tile_0481,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a building.",0.7521718740463257,0.8196147531270981,0.6082616001367569,0.5578906834125519
+tile_0482,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.725359171628952,0.7876725494861603,0.5503826588392258,0.5510750412940979
+tile_0483,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6595288217067719,0.6036169826984406,0.34384846687316895,0.4925752803683281
+tile_0484,"The image shows a remote sensing scene with a mix of land cover types, including trees, buildings, and a road.",0.7444637268781662,0.7866239547729492,0.6168203055858612,0.6559088826179504
+tile_0485,The image shows a road at the center with trees on both sides.,0.723152756690979,0.7996973395347595,0.710369348526001,0.7044558227062225
+tile_0486,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a golf field.",0.6985759735107422,0.7797062397003174,0.48252180218696594,0.485994890332222
+tile_0487,"The image shows a mix of land cover types, including trees, a building, and a road.",0.6870773434638977,0.6504658609628677,0.6511171907186508,0.6190303340554237
+tile_0488,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6143159791827202,0.7835807651281357,0.53321972489357,0.7117807865142822
+tile_0489,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7407133281230927,0.7198191434144974,0.5817249417304993,0.6091142073273659
+tile_0490,"The remote sensing image shows a mix of land cover types, including trees, fields, and roads.",0.6362591683864594,0.8478954434394836,0.5125259235501289,0.6439530849456787
+tile_0491,"The image shows a mix of land cover types, including trees, fields, and roads.",0.559174045920372,0.7015799731016159,0.6644842773675919,0.5770363658666611
+tile_0492,"The image shows a mix of land cover types, including bridges, buildings, trees, and a road.",0.6798490881919861,0.6750451773405075,0.4889947175979614,0.5461477488279343
+tile_0493,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6143419444561005,0.6883485615253448,0.5258423835039139,0.5660730600357056
+tile_0494,"The image shows a mix of land cover types, including trees, shrubs, and a road.",0.5883749574422836,0.6678576767444611,0.6055898219347,0.5906772613525391
+tile_0495,"The image shows a mix of land cover types, including trees, a building, and a road.",0.6247984617948532,0.6670209765434265,0.6012620404362679,0.6772299110889435
+tile_0496,"The remote sensing image shows a mix of land cover types, including a building, trees, and a road.",0.7344712316989899,0.7616491615772247,0.6113339960575104,0.6561131775379181
+tile_0497,"The image shows a mix of land cover types, including trees, a bridge, and a dam.",0.6935149431228638,0.7301834225654602,0.46841155737638474,0.5264172703027725
+tile_0498,"The image shows a mix of land cover types, including trees, a pond, and a road.",0.6740358471870422,0.7149860262870789,0.5204687267541885,0.6400682032108307
+tile_0499,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7073917984962463,0.6565903127193451,0.5058157816529274,0.5193311348557472
+tile_0500,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7300522923469543,0.736968144774437,0.5694058164954185,0.5108156055212021
+tile_0501,"The remote sensing image shows a mix of land cover types, including trees, a golf field, and a road.",0.7821808755397797,0.7711046934127808,0.5142676457762718,0.700792670249939
+tile_0502,"The image shows a mix of land cover types, including trees, buildings, and a golf field.",0.7074616849422455,0.766640305519104,0.39427630603313446,0.5189152806997299
+tile_0503,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6979608535766602,0.7210984081029892,0.5999118089675903,0.5125505477190018
+tile_0504,"The image shows a mix of land cover types, including buildings, trees, and a bridge.",0.7056741416454315,0.7334914803504944,0.40859952569007874,0.4525098577141762
+tile_0505,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6763642281293869,0.7797591388225555,0.4854535683989525,0.563199557363987
+tile_0506,"The image shows a mix of land cover types, including buildings, trees, and storage tanks.",0.6618328392505646,0.7713893800973892,0.5570178851485252,0.8590510487556458
+tile_0507,"The image shows a mix of land cover types, including buildings, trees, and storage tanks.",0.7138633728027344,0.7743096351623535,0.6304975599050522,0.668775886297226
+tile_0508,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6160964816808701,0.7318143546581268,0.4645160958170891,0.4249144718050957
+tile_0509,"The image shows a mix of land cover types, including trees, a building, and a road.",0.7186262309551239,0.6596104800701141,0.46621330082416534,0.49956217408180237
+tile_0510,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7153134047985077,0.7184134423732758,0.6528662890195847,0.5744266510009766
+tile_0511,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7180547714233398,0.7206219434738159,0.6195580586791039,0.6461451947689056
+tile_0512,"The image shows a mix of land cover types, including trees, fields, and a road.",0.7428690791130066,0.7571694999933243,0.5863835662603378,0.5968707054853439
+tile_0513,"The remote sensing image shows a mix of land cover types, including buildings, trees, and a road.",0.7414337992668152,0.8053182065486908,0.5533755198121071,0.5079586803913116
+tile_0514,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, and a road, with some trees and a building at the top.",0.755990594625473,0.8625464141368866,0.4919201135635376,0.5260530859231949
+tile_0515,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.791662335395813,0.8112408220767975,0.490756556391716,0.5620162189006805
+tile_0516,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7288676500320435,0.7002034783363342,0.6304043531417847,0.5247145891189575
+tile_0517,"The image shows a mix of land cover types, including a bridge, buildings, trees, and a road.",0.6064724922180176,0.7268496602773666,0.5243010073900223,0.7129703462123871
+tile_0518,"The image shows a mix of land cover types, including trees, roads, and a bridge.",0.6911154836416245,0.7424061745405197,0.5287624895572662,0.6783180683851242
+tile_0519,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.64765565097332,0.7253787666559219,0.5744153261184692,0.5863090977072716
+tile_0520,"The image shows a mix of land cover types, including trees, a bridge, and a road.",0.6906242668628693,0.730527713894844,0.4965255409479141,0.5862933397293091
+tile_0521,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7375999540090561,0.6860862672328949,0.4519316554069519,0.5353862792253494
+tile_0522,"The image shows a mix of land cover types, including buildings, houses, trees, and a single groundtrackfield.",0.7379472255706787,0.7583406567573547,0.4891829937696457,0.5777499824762344
+tile_0523,"The image shows a mix of land cover types, including buildings, trees, and a golf field.",0.7464690506458282,0.801650732755661,0.42502671480178833,0.5243300646543503
+tile_0524,"The image shows a mix of land cover types, including baseball fields, buildings, and trees.",0.7182243466377258,0.7499445229768753,0.24917133152484894,0.49588248133659363
+tile_0525,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6965444982051849,0.739494115114212,0.4346301406621933,0.4492942616343498
+tile_0526,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.7603497058153152,0.7362612336874008,0.47615382820367813,0.5226659774780273
+tile_0527,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7367312163114548,0.7953761518001556,0.4820852354168892,0.522005632519722
+tile_0528,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6920473277568817,0.6508824229240417,0.5633419007062912,0.5409619957208633
+tile_0529,"The image shows a mix of land cover types, including baseball diamonds, buildings, and storage tanks.",0.6294693052768707,0.7287640869617462,0.33036671578884125,0.6702038645744324
+tile_0530,"The image shows a mix of land cover types, including buildings, trees, and storage tanks.",0.6934646517038345,0.7644152641296387,0.5287744104862213,0.7366848737001419
+tile_0531,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.700279027223587,0.6939813494682312,0.5252641066908836,0.4470508545637131
+tile_0532,"The remote sensing image shows a mix of land cover types, including trees, roads, and a small area of land at the top left corner.",0.7959964871406555,0.7923449575901031,0.6507907807826996,0.6110328063368797
+tile_0533,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6929560005664825,0.7007397711277008,0.5993491038680077,0.5369864404201508
+tile_0534,"The image shows a mix of land cover types, including trees, fields, and a road.",0.6814576685428619,0.708058625459671,0.4722978174686432,0.7431204617023468
+tile_0535,"The image shows a mix of land cover types, including trees, fields, and a single windmill.",0.6585323065519333,0.7770171761512756,0.3939967602491379,0.5625807493925095
+tile_0536,"The image shows a mix of land cover types, including trees, a golf field, and a road.",0.6539221853017807,0.6811034679412842,0.47803331166505814,0.5318109691143036
+tile_0537,"The remote sensing image shows a mix of land cover types, including fields, trees, and a road.",0.7421888411045074,0.8650483191013336,0.5577234178781509,0.696856901049614
+tile_0538,"The image shows a mix of land cover types, including buildings, trees, and a bridge, with the majority of the area being covered in trees.",0.680752694606781,0.6482740491628647,0.5354103073477745,0.43550003319978714
+tile_0539,"The remote sensing image shows a mix of land cover types, including a bridge, buildings, and a road, with some trees and a gray vehicle present.",0.8072344958782196,0.7501371204853058,0.38083553314208984,0.5055354535579681
+tile_0540,"The remote sensing image shows a mix of land cover types, including trees, roads, and a bridge.",0.6693956255912781,0.8126766234636307,0.4129686951637268,0.5818433314561844
+tile_0541,"The remote sensing image shows a mix of land cover types, including trees, fields, and a road.",0.8068908751010895,0.8303959667682648,0.6158742308616638,0.5744606256484985
+tile_0542,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7004247605800629,0.6889942288398743,0.5527117103338242,0.734836757183075
+tile_0543,"The image shows a remote sensing scene with a mix of land cover types, including trees, a road, and a building.",0.7333692908287048,0.7514271140098572,0.6246193498373032,0.5398716032505035
+tile_0544,"The image shows a mix of land cover types, including buildings, trees, and a roundabout.",0.6950035691261292,0.7519147545099258,0.5600657314062119,0.5459605529904366
+tile_0545,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7366296648979187,0.7621334493160248,0.5411615967750549,0.4337047040462494
+tile_0546,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7216552644968033,0.7317712903022766,0.5171047151088715,0.5007661879062653
+tile_0547,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6859001517295837,0.7329098880290985,0.4187550023198128,0.5464011430740356
+tile_0548,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6948387622833252,0.7906380295753479,0.5377845466136932,0.5082815885543823
+tile_0549,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7493507862091064,0.7584833353757858,0.543142519891262,0.43617844581604004
+tile_0550,"The image shows a mix of land cover types, including buildings, trees, and a soccer field.",0.6980656087398529,0.7223790884017944,0.4617222025990486,0.48049498349428177
+tile_0551,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6399720907211304,0.6927184760570526,0.5048761144280434,0.46056900173425674
+tile_0552,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5475622043013573,0.6335002183914185,0.36180078983306885,0.5043721199035645
+tile_0553,"The image shows a mix of land cover types, including buildings, houses, trees, and a road.",0.6863823533058167,0.6891833245754242,0.5247148871421814,0.6117526814341545
+tile_0554,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7011609524488449,0.6690216064453125,0.5365632474422455,0.4806944727897644
+tile_0555,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.7048335671424866,0.6895868480205536,0.5530645325779915,0.49837827682495117
+tile_0556,"The image shows a mix of land cover types, including trees, a bridge, and a building.",0.6935112923383713,0.7868950068950653,0.5266965925693512,0.4563033953309059
+tile_0557,"The image shows a mix of land cover types, including trees, a dam, and a road.",0.5115514248609543,0.7144081592559814,0.4224763810634613,0.567394308745861
+tile_0558,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.6237271428108215,0.7346143573522568,0.5156352370977402,0.6122636795043945
+tile_0559,"The image shows a mix of land cover types, including a building, trees, and a road.",0.6916111707687378,0.7042495906352997,0.4805370047688484,0.4889083653688431
+tile_0560,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.6837418675422668,0.6973773241043091,0.6070014834403992,0.5662135779857635
+tile_0561,"The image shows a mix of land cover types, including trees, roads, and a single windmill.",0.7077561318874359,0.7488124072551727,0.47853104770183563,0.44214315712451935
+tile_0562,"The image shows a mix of land cover types, including buildings, trees, and a road.",0.7472753524780273,0.7314005494117737,0.5674289166927338,0.44711336493492126
+tile_0563,"The image shows a mix of land cover types, including trees, windmills, and a single gray windmill at the bottom.",0.7587656378746033,0.7151027023792267,0.49291588366031647,0.4724636673927307
+tile_0564,"The remote sensing image shows a mix of land cover types, including trees, windmills, and a single gray windmill at the bottom right.",0.8555777370929718,0.8533968031406403,0.5576858669519424,0.5310569703578949
+tile_0565,"The image shows a mix of land cover types, including trees, fields, and roads.",0.7531829923391342,0.7370557636022568,0.6117714568972588,0.707661435008049
+tile_0566,"The image shows a remote sensing scene with a mix of land cover types, including trees, a golf field, and a road.",0.7476754486560822,0.7927879691123962,0.539143905043602,0.5284283310174942
+tile_0567,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.66740483045578,0.6925781071186066,0.47883689403533936,0.48850804567337036
+tile_0568,"The image shows a mix of land cover types, including buildings, trees, and a soccer field.",0.7305649667978287,0.76759472489357,0.5236971005797386,0.5498049408197403
+tile_0569,"The image shows a mix of land cover types, including trees, buildings, and a soccer field.",0.6207799166440964,0.7683230191469193,0.5029838532209396,0.4877686873078346
+tile_0570,"The image shows a mix of land cover types, including trees, buildings, and a golf field.",0.6766604632139206,0.7707607001066208,0.42599722743034363,0.6529288738965988
+tile_0571,"The image shows a mix of land cover types, including trees, buildings, and a golf field.",0.7462757080793381,0.7488852739334106,0.4448920488357544,0.6299149245023727
+tile_0572,"The image shows a mix of land cover types, including trees, buildings, and a dam.",0.6318892538547516,0.7082695513963699,0.4535745084285736,0.5250347405672073
+tile_0573,"The image shows a mix of land cover types, including trees, buildings, and a road.",0.5862897261977196,0.5831470340490341,0.4795093834400177,0.4827677085995674
+tile_0574,"The image shows a mix of land cover types, including buildings, trees, and a baseball field.",0.7079990208148956,0.6765510886907578,0.34872766584157944,0.3956068307161331

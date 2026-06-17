@@ -1,0 +1,438 @@
+tile_id,classe,caption_lr,caption_sr,bleu1_lr,bleu1_sr,rouge1_lr,rouge1_sr,tfidf_lr,tfidf_sr
+tile_0026,cultivated vegetation,a blur of a person in a green shirt,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0027,cultivated vegetation,a close up of a cat ' s face,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0028,field,a green tree in the middle of a street,a large field with a tree in the middle,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0029,field,a white and black cat sitting on a white chair,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0030,cultivated vegetation,a close up of a person ' s face,an aerial view of a lake and land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0031,cultivated vegetation,a blur of a person on a bike,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0032,cultivated vegetation,a green tree with a white top,a green field with a white line in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0033,urban area,a large christmas tree in the middle of the city,an aerial view of a residential area in the suburb of the city of sydney,0.0,0.06666666666666667,0.0,0.11764705882352941,0.0,0.08894671608737015
+tile_0034,urban area,a blur of a building in the city,"a satellite image of the town of laredo, mexico",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0035,urban area,a city at night with a bridge and buildings,an aerial view of the city of san,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0036,urban area,a city with lots of lights on it,an aerial view of the intersection of the highway and the intersection of the highway,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0037,bare ground,a green plant with a white stem,a road that is next to a body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0038,field,a white cat with a black nose,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0039,field,a green and pink background with a small white dot,a green wall with a white background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0040,field,a pink and green background with a small amount of light,a green and brown wall with a white border,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0041,field,a green and red background with a small white dot,a green patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0042,water body,a baseball game is being played on a field,a large body of water,0.0,0.4,0.0,0.5714285714285715,0.0,0.5797386715376658
+tile_0043,forest,a white light is on the ground,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0044,bare ground,a very colorful background with a lot of small circles,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0049,cultivated vegetation,a close up of a green and yellow flower,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0050,cultivated vegetation,a blurry image of a person in a chair,aerial view of the road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0051,cultivated vegetation,a blur of a green leaf,aerial view of the farm,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0052,field,a black cat sitting on a white chair,an aerial view of a farm and field,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.2789425453258252
+tile_0053,cultivated vegetation,a close up of a green and white diamond,an aerial view of a farm in the middle of a rural area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0054,cultivated vegetation,a blur of a building,an aerial view of a farm and fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0055,cultivated vegetation,a green plant in a pot,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0056,urban area,a white and black cat is standing in the grass,an aerial view of the city of san,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0057,field,a green and white background with a small flower,an aerial view of the site of the proposed school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0058,urban area,a large cluster of pink flowers,a satellite image of the city of new orleans,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0059,urban area,a large white flower with many small white flowers,a satellite image of the city of san,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0060,bare ground,a white object is seen in the sky,a large area of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0061,bare ground,a soccer ball is on the ground,an aerial view of the road that leads to the site of the proposed proposed site,0.14285714285714285,0.0,0.22222222222222224,0.0,0.1757860783933462,0.0
+tile_0062,field,a white car driving down a road in the woods,an aerial view of the road that goes through the forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0063,field,a plane flying over a forest filled with trees,a large green field,0.0,0.25,0.0,0.4,0.0,0.44943641652398214
+tile_0064,field,a tree with a white and green background,a satellite image of a city,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0065,water body,a white and green pattern on a brown background,a lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0066,bare ground,a very colorful sky,a green wall with a black and white sign,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0067,forest,a black and white cat is standing in the grass,a large patch of land with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0072,cultivated vegetation,a black and white cat,a green field with a red line in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0073,cultivated vegetation,a black and white dog,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0074,cultivated vegetation,a black and white cat sitting on top of a table,aerial view of farmland fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0075,cultivated vegetation,a green and white object with a black background,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0076,cultivated vegetation,a black and white cat is looking at the camera,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0077,cultivated vegetation,a green and white cat is sitting on a white surface,an aerial view of the site of the former castle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0078,field,a blur of a plant in a pot,a satellite image of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0079,field,a black bear is seen in this image,a satellite image of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0080,field,a satellite satellite is seen in this image taken from the international space station,an aerial view of the site of the proposed school,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0081,urban area,a small white object in the dark sky,"a satellite image of the city of fort, texas",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0082,urban area,a green and white background with a white and black pattern,"a satellite image of the site of the former us embassy in the city of ti, guatemala",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0083,bare ground,a green light shining in the dark sky,a satellite image of a green area with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0084,bare ground,a black cat is sitting on a tree,a large patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0085,forest,"a large, green, and pink colored object",a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0086,forest,a tree with white flowers in the background,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0087,water body,a christmas tree with lights on it,a bridge over a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0088,field,a street with cars parked on it and a tree in the background,a bridge over a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0089,forest,a view of a road with a car driving down it,a road in the middle of a forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0090,bare ground,a tree with a white sky in the background,a green area with a white border,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0095,cultivated vegetation,a close up of a diamond,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0096,cultivated vegetation,a purple and white background with a black and white pattern,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0097,cultivated vegetation,a blur of a building,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0098,cultivated vegetation,a cat is sitting on a chair in the dark,aerial view of the river and fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0099,bare ground,a man in a white shirt and tie,an aerial view of a large field with a small lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0100,cultivated vegetation,a cat is standing in the middle of a room,aerial view of a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0101,field,a blur of a tree in the night,an aerial view of the village,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0102,field,a blur of a tree in the forest,an aerial view of the site of the former home of the late president of the united states,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0103,field,a blur of a tree in the forest,a satellite image of the area where the plane crashed,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0104,cultivated vegetation,a white christmas tree with a red background,a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0105,urban area,a close up of a plant with a blur,a satellite image of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0106,bare ground,a man in a suit and tie is standing on a stair,an aerial view of the area where the site of the proposed new school is located,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0107,bare ground,a blur of red and green leaves,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0108,bare ground,a cross in the middle of a forest,a green wall with a white and black sign,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0109,water body,a green and white christmas tree with white stars,a small town on a small island,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0110,water body,a green and white object is seen in this image,a small boat is floating in a body of water,0.0,0.2,0.0,0.33333333333333337,0.0,0.3799783615910079
+tile_0111,bare ground,a white bird is flying through the air,a large green patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0112,bare ground,a black cat is sitting on a white surface,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0113,bare ground,a bridge at night with a light on it,a road in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0118,forest,a white diamond with a black band,a green field with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0119,cultivated vegetation,a blur of a person in a green shirt,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0120,cultivated vegetation,a blur of a building in the sky,a green field with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0121,cultivated vegetation,a blur of a building in the middle of a street,an aerial view of a field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0122,cultivated vegetation,a close up of a green and white tile,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0123,cultivated vegetation,a man with a beard and a white shirt,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0124,cultivated vegetation,a red and green abstract background,a painting of a green field with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0125,cultivated vegetation,a green leaf with a white background,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0126,field,a green leaf with a white background,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0127,cultivated vegetation,a dog is sitting on a green surface,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0128,cultivated vegetation,a close up of a green and white flower,an aerial view of the site of the former site of the former site of the former site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0129,cultivated vegetation,a green and white flower with a blur effect,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0130,bare ground,a green plant with a white flower in the middle,a green field with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0131,field,a green and white background with a white border,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0132,water body,a person ' s hand with a green and black wrist,a river with a green and brown color,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0133,bare ground,a man in a white shirt and black pants,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0134,bare ground,a green and red background with a white and black background,a green wall with a red spot in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0135,bare ground,a green hill,a green and brown area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0136,bare ground,a close up of a green eye with a black background,a river in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0141,water body,a black and white cat with a black nose,a bird flying in the sky,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0142,water body,a close up of a diamond,a river with a green field and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0143,cultivated vegetation,a green and white object on a table,aerial view of the amazon river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0144,cultivated vegetation,a blur of a person in a suit,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0145,cultivated vegetation,a green glass vase,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0146,cultivated vegetation,a black and white cat is looking at the camera,aerial view of farmland fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0147,cultivated vegetation,a red and green background with a pattern,an aerial view of a farm in the middle of a rural area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0148,cultivated vegetation,a dog is sitting on a couch,"aerial image of the village of stow, suffolk",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0149,cultivated vegetation,a green leaf with a white flower,aerial image of the site of the old railway,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0150,cultivated vegetation,a cat is sitting on a table,an aerial view of a green field with a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0151,cultivated vegetation,a close up of a diamond,aerial view of the river and fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0152,cultivated vegetation,a man in a suit and tie is holding a cell,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0153,cultivated vegetation,a blur of a red and green object,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0154,water body,a black and green ring with a green center,a bird is perched on a tree branch,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0155,water body,a green and white flower on a pink background,a satellite image of a green area with a river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0156,forest,a pink and green background with a small white dot,a green wall with a white background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0157,bare ground,a pink and blue star with a black background,a pink lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0158,bare ground,a blur of a tree in the background,a red and yellow substance,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0159,bare ground,a green and white object in the sky,a green patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0164,water body,a black and white cat,a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0165,water body,a black and white cat with a black tail,a bird flying in the sky,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0166,water body,a close up of a pair of green eyes,a close up of a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0167,forest,a green and white diamond,an aerial view of the river and surrounding land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0168,cultivated vegetation,a green and white box with a red stripe,aerial view of the farm,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0169,cultivated vegetation,a blur of a building,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0170,cultivated vegetation,a red flower in a field,a field with a road and a small hill,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0171,cultivated vegetation,a red and green plant,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0172,cultivated vegetation,a green and white light shining through a window,aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0173,cultivated vegetation,a blur of a person in a green shirt,an aerial view of a field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0174,cultivated vegetation,a white cat is sitting on a chair,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0175,cultivated vegetation,a green and white diamond,an aerial view of the river and surrounding farmland,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0176,water body,a close up of a person ' s face,an aerial view of the river and surrounding land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0177,water body,a green and white striped pattern,a bird ' s eye view of a lake and a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0178,forest,a green and white substance,a satellite image of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0179,bare ground,a blur of pink and green in the sky,a green wall with a white spot,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0180,bare ground,a blur of pink flowers in the background,a green and purple background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0181,bare ground,a very colorful background with a lot of small flowers,a green and yellow colored background with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0182,bare ground,a green and red background with a small amount of light,a green and purple colored granite wall,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0187,cultivated vegetation,a close up of a green and white striped pattern,a river running through a lush green countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0188,water body,a person ' s hand with a green nail,a river with a small island in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0189,water body,a black and white cat is sitting on a white surface,a bird is perched on a branch of a tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0190,water body,a black and white cat laying on top of a bed,a close up of a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0191,water body,a person ' s hand with a green light on it,a small lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0192,forest,a blur of a tree,a picture of a road with a stop sign,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0193,forest,a green grass field with a white background,a piece of cake with a green frosting on top,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0194,cultivated vegetation,a dog is sitting on the grass,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0195,cultivated vegetation,a white cat sitting on top of a green chair,aerial view of the road from the air,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0196,cultivated vegetation,a blur of a building in the middle of a street,a painting of a green field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0197,bare ground,a blur of a red and white building,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0198,water body,a white and black cat,a river with a red substance,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0199,forest,a white cat with a black nose,a large green tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0200,forest,a person is walking on a path through the woods,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0201,bare ground,a pile of green leaves,a large green cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0202,bare ground,a blur of pink and green in the background,a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0203,bare ground,a blur of pink and green leaves,a green wall with a white and black paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0204,bare ground,a blur of pink flowers in the background,a green and yellow marble tile,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0205,bare ground,a white ring on a green background,a green wall with a white line in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0210,bare ground,a man in a suit and tie is standing on a sidewalk,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0211,cultivated vegetation,a black and white cat sitting on top of a table,an aerial view of a farm in the middle of the country,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0212,forest,a zebra is standing in the grass,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0213,water body,a person ' s hand is shown in this image,a close up of a green and brown area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0214,forest,a black belt with a white background,a piece of green moss,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0215,water body,a black and white photo of a person ' s shadow,a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0216,water body,a white and black striped pattern,a small river in the middle of a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0217,water body,a woman with a green shirt and a black shirt,a view of a river and a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0218,bare ground,a green emerald with a white background,a small lake surrounded by a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0219,bare ground,a blur of pink and green in the sky,a white bird flying over a green wall,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0220,bare ground,a black and white photo of a tree,a bird flying over a green hill,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0221,water body,a person with a white shirt and a black shirt,a river in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0222,field,a green and pink sky,a green wall with a white and black paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0223,forest,a blur of a green and white flower,a piece of green cake with a fork,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0224,forest,a green and white striped striped pattern,a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0225,forest,a man in a white shirt,a white line in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0226,forest,a white line on the ground,a white line on the wall,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0227,bare ground,a white dog is walking on a path,a small lake surrounded by green trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0228,bare ground,a white circle on a green field,a river in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0233,bare ground,a green and red colored background,a green and purple area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0234,cultivated vegetation,a white and black cat is standing in a room,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0235,cultivated vegetation,a man in a suit and tie is looking at something,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0236,cultivated vegetation,a blur of a person walking on a sidewalk,aerial view of the river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0237,cultivated vegetation,a cat is walking on the sidewalk in the dark,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0238,water body,a close up of a keyboard keyboard,a small lake surrounded by a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0239,water body,a black and white cat,a close up of a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0240,water body,a black object on a white surface,a close up of a leaf with a blury background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0241,water body,a white cloud in the sky,a red and black bird,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0242,water body,a green field,a cake with a slice missing,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0243,water body,a bird flying in the sky,a bird sitting on a rock,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0244,water body,a black and white cat,a person is skiing down a hill,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0245,water body,a green field,a bird is flying over a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0246,water body,a green mountain,a bird is perched on a branch of a tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0247,field,a green tree with white leaves,a green patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0248,field,a blur of a tree in the sky,a green wall with a white and black sign,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0249,bare ground,a pink and green background with a black and white stripe,a green wall with a small patch of dirt,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0250,bare ground,a close up of a flower with a blur effect,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0251,bare ground,a close up of a pink flower,a bird is sitting on a rock,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0256,bare ground,a black cat is looking at the camera,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0257,bare ground,a green and white background,aerial view of a soccer field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0258,cultivated vegetation,a white sign on a green field,an aerial view of a field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0259,cultivated vegetation,a white cat is standing in the grass,aerial photograph of the road leading to the village of stow,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0260,bare ground,a person is doing a trick on a skateboard,aerial view of the farm,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0261,cultivated vegetation,a man in a black shirt and a white shirt,a large field with a road and a small road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0262,cultivated vegetation,a green leaf with a white background,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0263,cultivated vegetation,a green stone with a white and black design,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0264,water body,a green flower,a large body of water,0.0,0.4,0.0,0.5714285714285715,0.0,0.5797386715376658
+tile_0265,water body,a small white dog,a green leaf on a tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0266,forest,a small bird is flying over the sand,a green leaf on a tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0267,forest,a green bush with a white background,a large green cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0268,water body,a white sand beach,a bird flying over a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0269,water body,a white and black cat,a bird is flying over a green hill,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0270,water body,a green and white logo on a white background,a bird flying over a lake with a green sky,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0271,field,a tree with green leaves,a large green area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0272,field,a green and white object with a white stripe,a green wall with a white and black paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0273,bare ground,a green substance with a white substance on it,a green wall with a white line,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0274,bare ground,a green and white background with a white line,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0279,bare ground,a cow is standing in the grass,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0280,bare ground,a blur of a tree in the sky,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0281,cultivated vegetation,a close up of a flower,a satellite image of a green area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0282,forest,a bird is perched on a tree branch,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0283,field,a small animal is standing in the grass,an aerial view of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0284,forest,a green and red background with a black background,a green field with a small lake in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0285,bare ground,a man in a suit and tie,a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0286,cultivated vegetation,a dog is sitting on the grass,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0287,forest,a white dog is walking on the grass,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0288,forest,a blur of pink and green in the background,a green wall with a small patch of paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0289,bare ground,a blur of pink and green,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0290,bare ground,a blur of pink and green,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0291,bare ground,a colorful background with a lot of small squares,a green and yellow wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0292,bare ground,a black and white cat is walking on the grass,a piece of cake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0293,water body,a white and black striped pattern,a small river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0294,water body,a close up of a green eye with a black eyeliner,a bird flying over a body of water,0.0,0.25,0.0,0.4,0.0,0.44943641652398214
+tile_0295,forest,a green leaf,a cake with a green frosting on top,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0296,forest,a green tree with a white background,a piece of cake with a green frosting,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0297,bare ground,a blur of pink and green,a green and brown wall,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0302,cultivated vegetation,a white and black cat is sitting on a tree,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0303,bare ground,a cat is sitting on a chair in the sun,a satellite image of a farm in the middle of a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0304,bare ground,a green and white background with small white stars,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0305,bare ground,a green and pink background with a white line,a green wall with a white stripe,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0306,bare ground,a red flower in the middle of a field,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0307,bare ground,a red and white flower in a green field,a large green field with a small bird,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0308,bare ground,a green and white background with a white line,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0309,bare ground,a white dog is walking on the grass,a small boat is floating in the water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0310,bare ground,a green and red background with a small white dot,a green and yellow background with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0311,bare ground,a green and white background with a white circle,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0312,bare ground,a green and white circle with a white stripe,a green and white river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0313,bare ground,a green substance,a green cake with a white frosting on top,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0314,bare ground,a green and black background with a white background,a piece of green cake with a white frosting on top,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0315,bare ground,a baseball player is throwing a ball,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0316,forest,a white bird is flying over a dirt road,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0317,water body,a white and black cat,a lake with a few trees in it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0318,water body,a green leaf,a cake with a green frosting on top,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0319,water body,a white and black cat,a pink lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0320,water body,a person is jumping in the air,a green and yellow colored background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0325,cultivated vegetation,a cat is sitting on a chair in a room,aerial view of the river and fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0326,cultivated vegetation,a close up of a light shining through a window,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0327,bare ground,a green and white object in the sky,a green field with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0328,bare ground,a blur of a tree in the forest,a green wall with a red line on it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0329,bare ground,a pink flower in a vase,a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0330,bare ground,a green field with a white line in the middle,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0331,bare ground,a green and black background with a white background,a green wall with a brick in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0332,bare ground,a bird flying through the sky,a satellite image of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0333,bare ground,a blur of pink and green in the sky,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0334,cultivated vegetation,a green leaf with a white stripe,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0335,bare ground,a pink flower in the middle of a green field,a green wall with a small patch of paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0336,bare ground,a white cat is sitting on a green surface,a satellite image of the amazon river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0337,bare ground,a blur of a tree,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0338,urban area,a view of a city from a plane,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0339,forest,a white cross in the middle of a forest,an aerial view of the house,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252,0.0
+tile_0340,bare ground,a black cat is sitting on a pink and green background,a bird is perched on a rock,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0341,bare ground,a blur of a green field with a white line,a green and blue wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0342,bare ground,a black cat is sitting on a white surface,a bird flying over a body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0343,cultivated vegetation,a cat is sitting on a table,an aerial view of a lake and a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0348,cultivated vegetation,a black and white photo of a person,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0349,cultivated vegetation,a blur of a building in the night,aerial view of a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0350,bare ground,a white triangle with a black background,aerial view of a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0351,bare ground,a green and white object in the dark,a bird flying over a lush green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0352,forest,a close up of a soccer field with a white line,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0353,cultivated vegetation,a green leaf with red stripes,a green field with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0354,bare ground,a green and red background with a small flower,a satellite image of a green area with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0355,bare ground,a blur of pink flowers in the sky,a green and purple wall with a small patch of paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0356,bare ground,a green and white background with a white line,a river in the middle of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0357,bare ground,a green and white background with a white line,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0358,bare ground,a blur of pink and green leaves,a green and purple texture of a wall,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0359,bare ground,a blur of a tree,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0360,field,a green and white photo of a building,an aerial view of the site of the proposed home,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0361,cultivated vegetation,a blur of a tree in the night,a large green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0362,forest,a green leaf with a white stripe,a satellite image of a forest,0.0,0.16666666666666669,0.0,0.2857142857142857,0.0,0.3799783615910079
+tile_0363,bare ground,a white flower in the middle of a field,a large area with a lot of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0364,bare ground,a black substance in a white bowl,a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0365,cultivated vegetation,a man in a suit and tie is standing in front of a window,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0366,cultivated vegetation,a blur of a tree,"aerial view of the village of stow, near the village of stow",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0371,cultivated vegetation,a close up of a building with a sky background,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0372,cultivated vegetation,a close up of a green diamond,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0373,cultivated vegetation,a black cat is sitting on a table,aerial view of the river and farmland,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0374,cultivated vegetation,a blur of a green leaf,a river running through a lush green valley,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0375,cultivated vegetation,a blur of a green leaf,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0376,bare ground,a green leaf,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0377,bare ground,a green and red background with a blur,a green wall with a small patch of paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0378,bare ground,a green and white background with a white line,a green leaf,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0379,bare ground,a green heart shaped object on a white surface,a heart shaped area with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0380,bare ground,a green and pink background with a small black dot,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0381,bare ground,a colorful background with many different colors,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0382,bare ground,a bird is sitting on a tree branch,a green wall with a small patch of paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0383,field,a green tree with white flowers in the background,an aerial view of the site of the proposed home,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0384,cultivated vegetation,a black and white cat is looking at the camera,a green granite wall with a white background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0385,cultivated vegetation,a bird is sitting on a branch in the dark,a satellite image of a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0386,cultivated vegetation,a large white cloud,a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0387,cultivated vegetation,a close up of a purple and white checkered pattern,an aerial view of a green field with a small tree,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0388,cultivated vegetation,a green and white checkered pattern,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0389,cultivated vegetation,a dog is sitting on a couch in a living room,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0394,cultivated vegetation,a blur of a bird in the sky,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0395,cultivated vegetation,a blur of a building in the middle of the city,a view of a river and a field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0396,cultivated vegetation,a green and white tile with a black stripe,a river running through a lush green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0397,cultivated vegetation,a close up of a green and black object,aerial view of the fields and fields in the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0398,cultivated vegetation,a close up of a green and white diamond,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0399,cultivated vegetation,a blur of a green leaf,aerial view of farmland fields in the countryside of the netherlands,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0400,cultivated vegetation,a green and white rug,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0401,cultivated vegetation,a green leaf with a white stripe,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0402,cultivated vegetation,a blur of a green leaf,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0403,bare ground,a colorful background with many small squares,a green wall with a blue sky in the background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0404,bare ground,a colorful background with many small squares,a green wall with a blue and white paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0405,bare ground,a black and white cat,a large field with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0406,field,a green leaf with a black background,a satellite image of the area where the plane crashed,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0407,cultivated vegetation,a green and white object in the dark sky,a large white building in the middle of a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0408,forest,a man in a camouflage uniform is holding a gun,a large field with a white house in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0409,cultivated vegetation,a close up of a green and yellow flower,a green field with a white line on it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0410,cultivated vegetation,a close up of a flower with a blur effect,a green field with a white line in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0411,cultivated vegetation,a close up of a green and white tile,aerial view of the site of the old farm,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0412,cultivated vegetation,a green snake is sitting on a brick,aerial view of the road leading to the village of the village of the village of the village of the village,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0417,field,a green and white object is seen in this image,a large body of water,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0418,field,a green and white background with a pattern,aerial view of the river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0419,cultivated vegetation,a green and white plaid pattern,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0420,cultivated vegetation,a green and white square shaped object,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0421,cultivated vegetation,a green glass vase sitting on top of a table,aerial view of the river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0422,cultivated vegetation,a close up of a green and white striped pattern,a river running through a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0423,cultivated vegetation,a close up of a green and white diamond,a large area of land with a river running through it,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0424,bare ground,a green and white cross on a black background,a large lake surrounded by green grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0425,bare ground,a pink nebula with a black hole in the center,a large green area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0426,bare ground,a colorful background with many small squares,a green wall with a blue and yellow paint,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0427,bare ground,a colorful background with many small squares,a green wall with a white border,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0428,bare ground,a black dog is standing in the grass,a large patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0429,forest,a green leaf with a white stripe,a satellite image of a large field with a house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0430,forest,a green diamond,a satellite image of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0431,forest,a green and white tile with a white border,a satellite image of a farm and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0432,cultivated vegetation,a green string is hanging from a wire,"aerial view of the village of stow, near the village of stow",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0433,cultivated vegetation,a bird is sitting on a wooden post,aerial view of the site of the proposed new bridge,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0434,cultivated vegetation,a close up of a diamond,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0435,cultivated vegetation,a cat is sitting on a table,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0440,field,a blur of a person walking on a path,an aerial view of a field with a lake,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0441,cultivated vegetation,a man in a suit and tie is seen in this image,an aerial view of a field with a small house,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0442,cultivated vegetation,a dog is standing on a ledge,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0443,cultivated vegetation,a white and green diamond,aerial view of the river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0444,field,a green and white striped pattern,aerial view of a river and a green field,0.0,0.11111111111111109,0.0,0.19999999999999998,0.0,0.2789425453258252
+tile_0445,field,a close up of a purple and green glass,aerial view of the site of the proposed new site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0446,cultivated vegetation,a close up of a green and white diamond,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0447,cultivated vegetation,a green and white diamond,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0448,bare ground,a white dog is laying on the ground,a satellite image of a green field,0.12500000000000003,0.0,0.2,0.0,0.161713780662529,0.0
+tile_0449,bare ground,a green and red background with a blur,a green wall with a small patch of grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0450,bare ground,a green and purple colored background,a satellite image of a green area with a small patch of land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0451,field,a black cat is sitting on a tree branch,an aerial view of a large green field,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.2789425453258252
+tile_0452,field,a satellite image of the area where the person was found,a satellite image of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0453,forest,a bird is flying over the trees,a satellite image of a small town in the middle of a forest,0.0,0.07692307692307693,0.0,0.14285714285714288,0.0,0.2097553962782169
+tile_0454,cultivated vegetation,a green tree with white flowers in the background,a satellite image of a golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0455,cultivated vegetation,a small patch of land with a small patch of land in the middle,a large field with a small house in the middle,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0456,bare ground,a blur of a tree,an aerial view of the area where the site of the proposed proposed site is located,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0457,bare ground,a blur of a tree,a satellite image of the area where the site of the proposed proposed site is located,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0458,bare ground,a green and pink background with a small white dot,a green granite wall with a white background,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0463,cultivated vegetation,a blur of a car driving down a road,an aerial view of the site of the proposed forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0464,forest,a close up of a green and white clock,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0465,forest,a blur of a tree,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0466,cultivated vegetation,a close up of a green and white tile,a view of a green field with a lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0467,cultivated vegetation,a green emerald gems,aerial view of the road from the air,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0468,cultivated vegetation,a close up of a green leaf,aerial view of the river,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0469,cultivated vegetation,a close up of a green glass window,aerial view of the road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0470,cultivated vegetation,a green emerald gems,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0471,cultivated vegetation,a green emerald gems,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0472,cultivated vegetation,a green glass vase with a white and black design,aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0473,cultivated vegetation,a white and black cat sitting on a green surface,a view of a green field with a small hill,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0474,cultivated vegetation,a blur of a person in a green shirt,an aerial view of a green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0475,field,a green background with white and black spots,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0476,field,a green and white background with a small white flower,an aerial view of the house and surrounding area,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0477,field,a green leaf with white flowers,a satellite image of a small town in the middle of a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0478,forest,a green plant with white flowers in the middle,an aerial view of a large green field,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0479,forest,a white ring is seen in the dark,a satellite image of a river in the middle of a forest,0.0,0.08333333333333333,0.0,0.15384615384615385,0.0,0.21951095080860833
+tile_0480,forest,a small bird is sitting on the ground,a green granite counter top,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0481,forest,a green and white background with a small white dot,a green wall with a white and black design,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0486,cultivated vegetation,a green leaf with a white star in the middle,a satellite image of a forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0487,cultivated vegetation,a green and white flower,a river running through a lush green forest,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0488,cultivated vegetation,a close up of a person ' s eye,aerial view of the river and surrounding fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0489,cultivated vegetation,a close up of a green and black cloth,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0490,cultivated vegetation,a close up of a diamond on a white background,aerial view of green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0491,cultivated vegetation,a close up of a green and white object,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0492,cultivated vegetation,a close up of a building with a clock,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0493,cultivated vegetation,a microscope microscope with a microscope lens,aerial view of the fields and fields of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0494,cultivated vegetation,a green building with a sky background,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0495,field,a green and black roof,aerial view of the fields and fields in the cots,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0496,field,a green leaf,a painting of a green field with a small pond,0.0,0.10000000000000002,0.0,0.18181818181818182,0.0,0.2789425453258252
+tile_0497,field,a close up of a green leaf,"aerial image of the village of stow, near the village of stow",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0498,field,a green field with a white line in the middle,a satellite image of a green field,0.10000000000000002,0.14285714285714285,0.18181818181818182,0.25,0.25969799324016246,0.33517574332792605
+tile_0499,field,a green field with a white line in the middle,an aerial view of a green field with trees,0.10000000000000002,0.11111111111111109,0.18181818181818182,0.19999999999999998,0.25969799324016246,0.2596979932401625
+tile_0500,forest,a green and white flower with a white center,an aerial view of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0501,forest,a green background with white stars,a satellite image of a forest,0.0,0.16666666666666669,0.0,0.2857142857142857,0.0,0.3799783615910079
+tile_0502,forest,a white lizard is standing in the dark,a satellite image of the golf course at the golf course,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0503,forest,a green tree with white flowers in the fore,a satellite image of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0504,forest,a white bird flying through the air,a small town surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0509,forest,a white bird is flying through the trees,an aerial view of a large building in the middle of a forest,0.0,0.07692307692307693,0.0,0.14285714285714288,0.0,0.2011946755849157
+tile_0510,forest,a white cat is sitting on a green chair,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0511,cultivated vegetation,a green plant with a white flower in the middle,aerial view of the village of stower,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0512,cultivated vegetation,a green leaf is growing in the ground,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0513,cultivated vegetation,a close up of a green and brown mosaic,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0514,cultivated vegetation,a black and white cat,aerial view of the village of the village of the village of the village of the village of the village of the village of the village,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0515,cultivated vegetation,a blur of a building,a painting of green grass,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0516,cultivated vegetation,a green and white tile floor,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0517,cultivated vegetation,a green leaf with a white background,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0518,cultivated vegetation,a green and white background with a white border,aerial view of the farm land,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0519,cultivated vegetation,a blur of a mountain in the distance,aerial view of the site of the proposed new development at the site of the proposed development,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0520,field,a blur of a bird in the trees,an aerial view of a lake and a road,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0521,field,a white cross on a green field,a large field with a road and a small house,0.14285714285714285,0.10000000000000002,0.25,0.18181818181818182,0.33517574332792605,0.2789425453258252
+tile_0522,urban area,a green and white background with small squares,a satellite image of a neighborhood in the florida keys,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0523,field,a green leaf with white spots,a satellite image of the area where the school is located,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0524,urban area,a white flower in the middle of a green field,an aerial view of the campus,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0525,urban area,a blur of a city with a lot of buildings,a satellite image of the site of the former us air force base in the town of tupui,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0526,urban area,a tree with white flowers in the middle,"an aerial view of the city of fort, florida",0.0,0.0,0.0,0.0,0.0,0.0
+tile_0527,urban area,a close up of a green leaf with white flowers,a satellite image of the area where the school is located,0.0,0.0909090909090909,0.0,0.15384615384615385,0.0,0.1216033147861901
+tile_0532,forest,a small white dog is standing on the grass,a satellite image of the site of the proposed new national park in the state of belize,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0533,forest,a cat is sitting on a window sie,a river running through a lush green forest,0.0,0.12500000000000003,0.0,0.2222222222222222,0.0,0.3032160644503863
+tile_0534,cultivated vegetation,a green and white camouflage camo,an aerial view of a green field with a small lake,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0535,cultivated vegetation,a bird is flying through the air,aerial view of the green fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0536,cultivated vegetation,a close up of a leaf with a blur,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0537,cultivated vegetation,a close up of a tile with a green and yellow pattern,aerial view of the fields and fields of the cots,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0538,cultivated vegetation,a close up of a computer keyboard,an aerial view of the countryside,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0539,cultivated vegetation,a black and white cat,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0540,cultivated vegetation,a close up of a purple and white abstract pattern,aerial view of the fields,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0541,cultivated vegetation,a white and black cat with a black nose,aerial view of the site of the proposed new development at the site of the proposed development,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0542,cultivated vegetation,a green leaf with a white spot on it,an aerial view of the site of the proposed site,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0543,water body,a yellow flower in the middle of a field,a small lake surrounded by trees,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0544,urban area,a blur of a tree in the forest,an aerial view of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0545,forest,a green and white background with a black and white pattern,a satellite image of the town of st lucia,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0546,field,a blur of a tree in the forest,a satellite image of the village of the same name,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0547,bare ground,a close up of a flower with a blur effect,an aerial view of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0548,urban area,a tree with white flowers in the fore,a satellite image of the area where the house was located,0.0,0.0909090909090909,0.0,0.15384615384615385,0.0,0.1216033147861901
+tile_0549,urban area,a tree with white flowers in the middle of the image,a satellite image of a small town,0.0,0.0,0.0,0.0,0.0,0.0
+tile_0550,urban area,a tree with white flowers in the background,an aerial view of the village,0.0,0.0,0.0,0.0,0.0,0.0
