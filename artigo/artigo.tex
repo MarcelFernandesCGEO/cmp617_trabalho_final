@@ -87,8 +87,8 @@ fidelidade fotométrica, mas não capturam se o conteúdo semântico
 recuperado é coerente com a realidade do terreno: uma imagem SR pode ter
 PSNR alto e ainda introduzir texturas incorretas que confundem sistemas
 de classificação. Modelos de visão-linguagem como CLIP \cite{radford:2021}
-e BLIP \cite{li:2022} abrem uma alternativa --- avaliar imagens por meio
-de linguagem natural --- e o CLIPScore \cite{hessel:2021} formaliza essa
+e BLIP \cite{li:2022} abrem uma alternativa que consiste em avaliar imagens por meio
+de linguagem natural e o CLIPScore \cite{hessel:2021} formaliza essa
 ideia como similaridade entre embeddings de imagem e texto.
 
 Este trabalho investiga a questão: \textbf{as imagens Sentinel-2
@@ -128,7 +128,7 @@ legendas de vocabulário diversificado, mas genérico. GeoChat
 \cite{kuckreja:2024}, ao contrário, é um modelo visão-linguagem
 (arquitetura LLaVA, encoder CLIP, decodificador LLaMA-7B) \textit{fine-tuned}
 em 318~mil pares de instrução geoespaciais, cobrindo legendagem,
-localização e VQA sobre imagens de satélite --- o que o torna mais
+localização e VQA sobre imagens de satélite, o que o torna mais
 discriminativo no domínio.
 
 \textbf{Embeddings visão-linguagem.} CLIP \cite{radford:2021} aprende um
@@ -167,7 +167,7 @@ fracamente correlacionadas com a percepção humana e com o desempenho em
 tarefas \textit{downstream} \cite{blau:2018}. Blau e Michaeli (2018)
 formalizaram o \textit{perception-distortion tradeoff}, mostrando que
 melhorar a qualidade perceptual frequentemente piora a fidelidade de
-pixel --- o que motiva métricas alternativas. No domínio de sensoriamento
+pixel, o que motiva métricas alternativas. No domínio de sensoriamento
 remoto, Nguyen et al.\ \cite{nguyen:2021} propõem um benchmark de SR
 multitemporal para Sentinel-2 avaliado por PSNR/SSIM contra imagens de
 alta resolução; o presente trabalho difere por usar linguagem natural
@@ -197,7 +197,7 @@ independentemente em duas regiões.
 \begin{table}[ht]
 \centering
 \caption{Visão geral do pipeline: modelos, métricas e cenários.
-  \checkmark\,=\,aplicado; ---\,=\,não aplicado.}
+  \checkmark\,=\,aplicado; e -\,=\,não aplicado.}
 \label{tab:pipeline_overview}
 \small
 \begin{tabular}{llccc}
@@ -236,8 +236,8 @@ Para validar a robustez do pipeline, o experimento é replicado em
 \textbf{duas regiões geograficamente distintas} ($\approx$110~km de
 distância em EPSG:3857): \textbf{Região~1} ($n=575$ tiles válidos) e
 \textbf{Região~2} ($n=378$ tiles), totalizando \textbf{953 tiles}
-combinados. As regiões diferem em composição de paisagem --- a Região~2 é
-mais agrícola e tem corpos d'água raros e pequenos ---, o que permite
+combinados. As regiões diferem em composição de paisagem, a Região~2 é
+mais agrícola e tem corpos d'água raros e pequenos, o que permite
 identificar tanto a consistência dos ganhos entre paisagens como modos
 de falha específicos à composição local.
 
@@ -256,10 +256,10 @@ supera 5\% da área. Na Região~1, 437/575 tiles têm classe dominante
 \subsection{Cenários e Métricas}
 
 Definem-se três cenários de referência:
-\textbf{(A) GT Vetorial} --- referência = nome da classe em inglês;
-\textbf{(B) GT Raster 1m} --- referência = legenda BLIP da ortofoto (NLP)
+\textbf{(A) GT Vetorial} com referência = nome da classe em inglês;
+\textbf{(B) GT Raster 1m} com referência = legenda BLIP da ortofoto (NLP)
 ou embedding da ortofoto (CLIPScore imagem-imagem);
-\textbf{(C) GT Raster Reamostrado} --- idêntico a B, com GT degradado para
+\textbf{(C) GT Raster Reamostrado}, idêntico a B, com GT degradado para
 $\approx$2,4~m/px, isolando a penalidade de resolução diferencial.
 
 As métricas NLP são BLEU-1 (suavização \textit{method1}, NLTK), ROUGE-1
@@ -288,7 +288,7 @@ pontos percentuais (pp).
 Para contornar a incompatibilidade léxica do Cenário~A, as respostas de
 q01 são usadas como predições e o GeoPackage como ground truth
 quantitativo. Para cada tile: (i) as camadas vetoriais são intersectadas
-com sua \textit{bbox} e agregadas em 5 classes VQA --- \textit{forest},
+com sua \textit{bbox} e agregadas em 5 classes VQA, \textit{forest},
 \textit{agriculture} (campo\,+\,vegetação cultivada), \textit{urban},
 \textit{water}, \textit{bare soil} (terreno exposto\,+\,brejo); (ii) as
 estimativas percentuais de q01 (LR, SR, GT) são parseadas; (iii) calcula-se
@@ -318,9 +318,9 @@ No Cenário~A, os scores NLP ficam próximos de zero em ambas as resoluções
 e regiões (TF-IDF SR $\approx 0{,}02$--$0{,}03$; SR\,$>$\,LR em apenas
 71/815 tiles combinados), pois o BLIP raramente reproduz literalmente o
 nome da classe. A análise qualitativa explica o piso da LR: 20\% dos tiles
-LR da Região~1 geram descrições alucinadas --- medido no Cenário~B, como
+LR da Região~1 geram descrições alucinadas, medido no Cenário~B, como
 legendas com BLEU-1\,$\approx$\,0 frente à ortofoto (p.\,ex.\ \textit{``a
-blue sky with clouds''}, \textit{``a couple is kissing in the water''}) ---,
+blue sky with clouds''}, \textit{``a couple is kissing in the water''}),
 pois a resolução insuficiente leva o BLIP a evocar cenas do seu
 pré-treinamento; a SR reduz esse colapso para 11\%. Esse cenário motiva a avaliação cruzada
 quantitativa da Seção~\ref{sec:vqa_vetorial}.
@@ -384,7 +384,7 @@ A VQA estratificada (Tabela~\ref{tab:vqa_nivel}) favorece a SR em todos os
 níveis e nas duas regiões. O nível semântico (L1) tem o maior ganho
 TF-IDF ($+0{,}228$ pooled), puxado por q02 (presença de água,
 $\Delta=+0{,}386$) e q01. Em q01, tomando como referência a própria
-resposta do GeoChat sobre a ortofoto (GT raster) --- e não o GeoPackage da
+resposta do GeoChat sobre a ortofoto (GT raster), e não o GeoPackage da
 Seção~\ref{sec:vqa_vetorial} ---, a SR reduz o MAE de estimativa de
 cobertura de $11{,}83$ para $6{,}30$~pp (pooled), uma melhora de
 $1{,}9\times$. O nível estrutural (L2) é o mais fraco: q03 (contagem de
@@ -393,7 +393,7 @@ tiles. Em todos os níveis, R2 apresenta ganhos iguais ou superiores a R1.
 
 \begin{table}[ht]
 \centering
-\caption{VQA estratificada --- ganho $\Delta$(SR$-$LR) em TF-IDF e
+\caption{VQA estratificada: ganho $\Delta$(SR$-$LR) em TF-IDF e
   similaridade semântica, por nível e região. $n$ = pares de resposta.}
 \label{tab:vqa_nivel}
 \small
@@ -426,7 +426,7 @@ A Tabela~\ref{tab:vqa_vetorial} cruza as estimativas de q01 com os
 percentuais reais do GeoPackage. Globalmente, a SR estima a cobertura do
 solo com erro $3{,}6$~pp menor que a LR (pooled), e a hierarquia
 GT\,raster\,$<$\,SR\,$<$\,LR é consistente nas duas regiões
-($17{,}4 < 19{,}1 < 22{,}7$~pp pooled) --- a SR recupera a maior parte do
+($17{,}4 < 19{,}1 < 22{,}7$~pp pooled), a SR recupera a maior parte do
 sinal semântico relevante para estimativa de cobertura. Os maiores ganhos
 ocorrem em \textit{bare soil} ($+11{,}1$~pp) e \textit{agriculture}
 ($+6{,}3$~pp) pooled, robustos em ambas as regiões
@@ -492,12 +492,12 @@ imagens Sentinel-2 super-resolvidas por fusão temporal recuperam conteúdo
 semântico mensurável. O pipeline proposto vai além de métricas por pixel:
 o CLIPScore RemoteCLIP imagem-imagem favorece a SR em 952/953 tiles
 ($\Delta=+0{,}508$), e as métricas NLP (BLIP e GeoChat) melhoram de forma
-consistente. A contribuição central --- a avaliação cruzada VQA $\times$
-GeoPackage --- fornece a evidência mais direta e interpretável: a SR reduz
+consistente. A contribuição central é a avaliação cruzada VQA $\times$
+GeoPackage e fornece a evidência mais direta e interpretável: a SR reduz
 o erro global de estimativa de cobertura do solo de $22{,}7$ para
 $19{,}1$~pp ($-3{,}6$~pp) frente ao ground truth vetorial e, frente à
 referência de alta resolução em q01, suas estimativas são $1{,}9\times$
-mais precisas ($11{,}8\to6{,}3$~pp) --- sem depender de sobreposição léxica
+mais precisas ($11{,}8\to6{,}3$~pp), sem depender de sobreposição léxica
 ou de pares de alta resolução alinhados. Os maiores ganhos em
 \textit{bare soil} ($+11{,}1$~pp) e \textit{agriculture} ($+6{,}3$~pp)
 revelam que a fusão temporal recupera informação semântica real sobre
@@ -507,8 +507,8 @@ ambiental.
 A validação em \textbf{duas regiões geograficamente distintas} (953 tiles
 combinados) confirma a robustez dos resultados. Observou-se ainda que o
 ganho semântico global pode coexistir com degradações específicas a certas
-classes --- por exemplo, na Região~2 (água rara) a SR tende a superestimar
-a classe \textit{water} ---, uma nuance útil para calibrar expectativas por
+classes, por exemplo, na Região~2 (água rara) a SR tende a superestimar
+a classe \textit{water}, uma nuance útil para calibrar expectativas por
 tipo de paisagem.
 
 Como trabalhos futuros: (i) ampliar para mais regiões, datas e condições
@@ -524,7 +524,7 @@ disponíveis em: \url{https://github.com/MarcelFernandesCGEO/cmp617_trabalho_fin
 \section*{Declaração de Uso de Inteligência Artificial Generativa}
 % ==========================================================================
 
-Conforme exigido, declara-se o uso de ferramentas de IA generativa neste
+Declara-se o uso de ferramentas de IA generativa neste
 trabalho. O modelo \textbf{Claude Opus 4.8 (Anthropic)}, via Claude Code
 (versão 2.1.179), foi
 utilizado para: (i) auxílio na consolidação e análise estatística dos
@@ -533,7 +533,7 @@ resultados das duas regiões (geração de scripts em Python/pandas);
 e (iii) revisão gramatical do texto. Os modelos
 \textbf{BLIP}, \textbf{GeoChat}, \textbf{CLIP} e \textbf{RemoteCLIP}
 constituem o objeto de estudo experimental, não ferramentas de redação.
-Todo o conteúdo --- código e texto --- foi integralmente revisado,
+Todo o conteúdo, contemplando código e texto, foi integralmente revisado,
 validado e é de responsabilidade do autor. A concepção da pesquisa, o
 desenho experimental multi-região e a interpretação dos achados são de
 autoria própria.
