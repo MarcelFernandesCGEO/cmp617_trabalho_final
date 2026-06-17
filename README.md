@@ -2,8 +2,6 @@
 
 Trabalho final da disciplina **CMP617 – Processamento de Imagens** (PPGC/UFRGS).
 
-**Autor:** Marcel Fernandes Gomes — marcelgfernandes@gmail.com
-
 ## Resumo
 
 Pipeline de avaliação semântica que usa métricas de PLN e modelos visão-linguagem (BLIP, GeoChat, CLIP, RemoteCLIP) para medir ganhos de qualidade em imagens Sentinel-2 super-resolvidas por fusão temporal, sem depender de métricas por pixel. A contribuição central cruza estimativas VQA com um ground truth vetorial (GeoPackage), produzindo erro em pontos percentuais interpretável por classe de cobertura do solo.
